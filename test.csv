@@ -1,0 +1,1212 @@
+ID,DiagnosticICD10Code,SurgeryGroup,AnesthesiaType,SurgeryName,Age,Sex,Service,DoctorID,AnaesthetistID
+1669,{'H26.9'},{'C'},Sedo Analjezi,,70,FEMALE,GÖZ HASTALIKLARI SERV?S?,49,13
+2091,{'L05.9'},{'C'},Spinal Anestezi,Pilonidal kist,41,MALE,GENEL CERRAH? SERV?S?,36,6
+585,{'M50.1'},{'A3'},Genel Anestezi,"Servikal disk bozukluklar?, radikülopati ile",59,FEMALE,ORTOPED? SERV?S?,42,14
+1455,{'S42.2'},{'B'},Genel Anestezi,Humerus üst uç k?r???,54,FEMALE,ORTOPED? SERV?S?,23,14
+1801,{'I82'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,50,MALE,KVC SERV?S?,46,13
+1418,{'K40.9'},{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",31,MALE,GENEL CERRAH? SERV?S?,47,1
+1071,{'N47'},"{0, 'D'}",Sedo Analjezi,,1,MALE,ÜROLOJ? SERV?S?,11,9
+2960,{'K40'},{'B'},Genel Anestezi,?nguinal herni,59,MALE,GENEL CERRAH? SERV?S?,43,2
+530,"{'I83', nan}","{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,35,FEMALE,KVC SERV?S?,8,13
+1531,{'M50.1'},{'A3'},Genel Anestezi,,41,MALE,ORTOPED? SERV?S?,42,4
+3432,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,51,FEMALE,KVC SERV?S?,46,6
+2159,{'K60.1'},"{'D', 'C'}",Spinal Anestezi,Anal fissür tan?mlanmam??,21,FEMALE,GENEL CERRAH? SERV?S?,5,2
+1346,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",53,MALE,GENEL CERRAH? SERV?S?,47,14
+1296,"{'S82.0', 'W19'}",{'B'},Genel Anestezi,Patella k?r???,48,FEMALE,ORTOPED? SERV?S?,40,12
+2421,{'K40.3'},"{'D', 'B'}",Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",56,MALE,GENEL CERRAH? SERV?S?,5,14
+2781,{'K80.2'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",62,FEMALE,GENEL CERRAH? SERV?S?,47,12
+3602,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",58,FEMALE,GENEL CERRAH? SERV?S?,36,14
+3616,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,43,FEMALE,KVC SERV?S?,25,14
+2819,"{'K42.0', 'K80.1'}","{'D', 'B', 'C'}",Genel Anestezi,"Kolelitiazis, di?er",31,FEMALE,GENEL CERRAH? SERV?S?,5,13
+619,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",40,FEMALE,GENEL CERRAH? SERV?S?,47,9
+2221,"{nan, 'M48.06', 'K21.0', 'I87.2'}","{'B', 'A3'}",Genel Anestezi,Spinal stenoz,70,MALE,ORTOPED? SERV?S?,32,4
+448,"{'K21.9', 'J15.9', 'N20.0', 'N20.1', 'M19.9'}",{'B'},Genel Anestezi,Üreter ta??,30,MALE,ÜROLOJ? SERV?S?,15,9
+3648,{'K40'},"{'D', 'B'}",Spinal Anestezi,?nguinal herni,45,MALE,GENEL CERRAH? SERV?S?,5,14
+2344,{'H02.9'},{'C'},Sedo Analjezi,"Göz kapa?? bozuklu?u, tan?mlanmam??",54,FEMALE,PLAST?K CERRAH?,28,6
+333,"{nan, 'K40.3'}","{'B', 'C'}",Spinal Anestezi,"Tek tarafl? veya tan?mlanmam?? inguinal herni, obstrüksiyonlu,gangrensiz",72,MALE,GENEL CERRAH? SERV?S?,5,11
+1243,"{'K42.0', 'K80.8'}",{'B'},Genel Anestezi,"Umbilikal herni; obstrüksiyonlu, gangrensiz",39,MALE,GENEL CERRAH? SERV?S?,36,12
+3627,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,25,FEMALE,KVC SERV?S?,46,11
+2994,"{nan, 'M51.0'}","{0, 'B'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",33,FEMALE,NÖRO??RÜRJ? SERV?S?,42,11
+1579,"{'K21.9', 'L05'}",{'C'},Spinal Anestezi,,24,MALE,GENEL CERRAH? SERV?S?,33,4
+160,{'G56.0'},{'C'},Sedo Analjezi,Karpal tünel sendromu,60,FEMALE,ORTOPED? SERV?S?,23,11
+256,{'H50'},{'C'},Genel Anestezi,"Strabismus di?er, tan?mlanm??",40,FEMALE,GÖZ HASTALIKLARI SERV?S?,49,9
+2973,{'Z41.2'},{'D'},Sedo Analjezi,Rutin ve dini sünnet,14,MALE,ÜROLOJ? SERV?S?,15,2
+2064,{'K40'},{'B'},Genel Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",44,MALE,GENEL CERRAH? SERV?S?,43,4
+2929,{'N20.1'},"{'D', 'C'}",Sedo Analjezi,Üreter ta??,39,MALE,ÜROLOJ? SERV?S?,27,6
+3103,"{'Z41.2', 'L30.3', 'K40.9'}","{'D', 'C'}",Genel Anestezi,Rutin ve dini sünnet,7,MALE,ÜROLOJ? SERV?S?,15,11
+2331,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,39,MALE,KVC SERV?S?,46,6
+2759,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",24,FEMALE,GENEL CERRAH? SERV?S?,47,14
+244,"{'K21.9', 'N20.2', 'N30.0', 'N21.0'}",{'B'},Spinal Anestezi,Mesane ta??,53,MALE,ÜROLOJ? SERV?S?,15,2
+2623,"{nan, 'M51.1'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",46,FEMALE,NÖRO??RÜRJ? SERV?S?,42,13
+2784,{'S02.2'},{0},Sedo Analjezi,,8,FEMALE,KBB SERV?S?,6,6
+1315,{'H26.9'},{'C'},Sedo Analjezi,,60,MALE,GÖZ HASTALIKLARI SERV?S?,49,10
+2244,{'K40.9'},{'C'},Spinal Anestezi,"Bilateral inguinal herni, gangrenli",74,MALE,GENEL CERRAH? SERV?S?,36,13
+531,"{'I83', nan}","{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,43,MALE,KVC SERV?S?,8,13
+2923,{'M95.0'},{'C'},Genel Anestezi,Burnun kazan?lm?? deformitesi,24,FEMALE,PLAST?K CERRAH?,28,2
+3203,{'N92.1'},{0},Sedo Analjezi,"A??r? ve s?k menstrüasyon, düzensiz siklus ile",45,FEMALE,KADIN DO?UM SERV?S?,48,4
+3294,{'Z01.4'},{'C'},Genel Anestezi,Jinekolojik muayene (genel) (ola?an),39,FEMALE,KADIN DO?UM SERV?S?,48,4
+1612,{'K40.9'},{'C'},Sedo Analjezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",54,MALE,GENEL CERRAH? SERV?S?,36,11
+3433,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,53,MALE,KVC SERV?S?,46,6
+280,{'K80.1'},{'B'},Genel Anestezi,"Safra kesesi ta??, di?er kolesistit ile",36,FEMALE,GENEL CERRAH? SERV?S?,5,6
+2354,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,67,FEMALE,KVC SERV?S?,25,6
+2908,{'K80.8'},{'B'},Epidural ve Genel Anestezi,"Kolelitiazis, di?er",47,FEMALE,GENEL CERRAH? SERV?S?,36,14
+3355,"{nan, 'J34.2'}","{0, 'E', 'B', 'C'}",Genel Anestezi,Nazal septum deviasyonu,22,FEMALE,KBB SERV?S?,6,6
+457,"{nan, 'M51.9'}","{0, 'B'}",Genel Anestezi,"?ntervertebral disk bozukluklar?, tan?mlanmam??",31,MALE,ORTOPED? SERV?S?,21,5
+1042,{'I86.1'},{'B'},Genel Anestezi,,22,MALE,ÜROLOJ? SERV?S?,15,10
+2676,{'M25.5'},"{'B', 'C'}",Spinal Anestezi,Eklem a?r?s?,38,MALE,ORTOPED? SERV?S?,40,6
+235,"{'J30.2', 'J34', 'J01.8'}","{0, 'D', 'C'}",Genel Anestezi,,30,MALE,KBB SERV?S?,30,6
+2181,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,57,MALE,KVC SERV?S?,25,2
+2574,{'M25.8'},{'B'},Genel Anestezi,Eklem a?r?s?,16,MALE,ORTOPED? SERV?S?,40,2
+1537,{'H26.9'},{'C'},Sedo Analjezi,,76,FEMALE,GÖZ HASTALIKLARI SERV?S?,49,2
+872,"{'N35.8', 'N40'}",{'C'},Genel Anestezi,Benign prostat hiperplazisi,75,MALE,ÜROLOJ? SERV?S?,31,10
+251,"{'M50.9', 'M54.2'}",{'A3'},Genel Anestezi,"Servikal disk bozuklu?u, tan?mlanmam??",58,MALE,ORTOPED? SERV?S?,21,3
+1896,{'K40.9'},{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",44,MALE,GENEL CERRAH? SERV?S?,47,13
+610,"{nan, 'M51.1'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",43,MALE,ORTOPED? SERV?S?,42,9
+690,"{nan, 'M20.1'}","{'D', 'C'}",Spinal Anestezi,Halluks valgus kazan?lm??,31,FEMALE,ORTOPED? SERV?S?,23,3
+964,{'K80.8'},{'B'},Genel Anestezi,,46,FEMALE,GENEL CERRAH? SERV?S?,36,7
+386,{'I83.0'},"{0, 'E'}",Sedo Analjezi,,56,MALE,GENEL KARMA CERRAH? SERV?S?,25,4
+192,"{'I83', nan}","{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,29,FEMALE,GENEL KARMA CERRAH? SERV?S?,8,4
+2114,"{nan, 'R07.0', 'J34.2', 'J30.3'}","{'D', 'B', 'C'}",Genel Anestezi,,30,MALE,KBB SERV?S?,18,14
+179,{'K40.9'},{'C'},Spinal Anestezi,?nguinal herni,62,MALE,GENEL CERRAH? SERV?S?,36,5
+900,{'K40.0'},{'B'},Spinal Anestezi,?nguinal herni,63,MALE,GENEL CERRAH? SERV?S?,43,9
+3373,{'I83.9'},"{0, 'E'}",Lokal Anestezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,42,FEMALE,KVC SERV?S?,46,4
+1635,{'K80.1'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",47,FEMALE,GENEL CERRAH? SERV?S?,5,2
+3559,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,53,FEMALE,KVC SERV?S?,46,14
+3672,{'K80.8'},{'B'},Genel Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",39,FEMALE,GENEL CERRAH? SERV?S?,36,6
+3313,{'N20.1'},{'C'},Spinal Anestezi,Üreter ta??,58,MALE,ÜROLOJ? SERV?S?,26,6
+1506,"{'I83', nan}","{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,30,MALE,GENEL KARMA CERRAH? SERV?S?,8,14
+3168,{'K40.3'},"{'D', 'B', 'C'}",Spinal Anestezi,?nguinal herni,33,MALE,GENEL CERRAH? SERV?S?,5,11
+1023,"{nan, 'K40.2'}",{'B'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",64,MALE,GENEL CERRAH? SERV?S?,5,9
+2223,"{nan, 'S83.5'}","{'B', 'C'}",Spinal Anestezi,Diz (anterior) (posterior) çapraz ligament burkulma ve gerilmesi,28,MALE,ORTOPED? SERV?S?,32,4
+98,{'J34.2'},"{0, 'D', 'C'}",Genel Anestezi,Nazal septum deviasyonu,55,MALE,KBB SERV?S?,19,9
+3353,{'I83.9'},"{0, 'E'}",Lokal Anestezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,43,MALE,KVC SERV?S?,25,2
+843,{'L05'},{'C'},Sedo Analjezi,Pilonidal kist,25,MALE,GENEL CERRAH? SERV?S?,36,2
+2084,{'K40.3'},{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",58,MALE,GENEL CERRAH? SERV?S?,36,6
+2292,{'H04.5'},{'C'},Genel Anestezi,Lakrimal pasajda stenoz ve yetmezlik,52,FEMALE,GÖZ HASTALIKLARI SERV?S?,49,11
+165,{'J34'},{'B'},Genel Anestezi,Burun ve nazal sinüslerin di?er bozukluklar?,34,MALE,KBB SERV?S?,20,11
+940,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",26,FEMALE,GENEL CERRAH? SERV?S?,36,10
+1996,"{nan, 'K40'}","{'B', 'C'}",Spinal Anestezi,"Bilateral inguinal herni, gangrenli",71,MALE,GENEL CERRAH? SERV?S?,43,2
+2703,{'N43.2'},{'C'},Genel Anestezi,"Hidrosel, di?er",58,MALE,ÜROLOJ? SERV?S?,27,2
+1942,"{nan, 'Q83.1'}","{'B', 'C'}",Genel Anestezi,Aksesuar meme,44,FEMALE,PLAST?K CERRAH?,28,2
+777,{'L05'},{'C'},Spinal Anestezi,Pilonidal kist,24,MALE,GENEL CERRAH? SERV?S?,43,12
+515,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,31,MALE,KVC SERV?S?,25,10
+2801,{'N30.0'},{'A3'},Spinal Anestezi,Akut sistit,39,MALE,ÜROLOJ? SERV?S?,31,6
+1349,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",50,FEMALE,GENEL CERRAH? SERV?S?,47,14
+2990,{'N47'},"{'D', 'C'}",Sedo Analjezi,,4,MALE,ÜROLOJ? SERV?S?,31,15
+2492,{'L05.9'},{'C'},Sedo Analjezi,"Pilonidal kist, apsesiz",47,MALE,GENEL CERRAH? SERV?S?,36,6
+1949,"{nan, 'M51.1'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",67,FEMALE,ORTOPED? SERV?S?,42,6
+197,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",57,FEMALE,GENEL CERRAH? SERV?S?,35,10
+2865,"{'N21.0', 'N23'}",{'B'},Spinal Anestezi,Mesane ta??,49,MALE,ÜROLOJ? SERV?S?,27,14
+536,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,64,MALE,KVC SERV?S?,25,4
+2683,"{'J35.1', 'J35.0'}","{'E', 'C'}",Genel Anestezi,,7,MALE,KBB SERV?S?,6,2
+973,"{'I83', nan}","{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,59,FEMALE,KVC SERV?S?,8,6
+2789,{'L05'},{'C'},Sedo Analjezi,Pilonidal kist,25,MALE,GENEL CERRAH? SERV?S?,47,12
+2038,"{nan, 'N35.9'}","{0, 'C'}",Sedo Analjezi,"Üretral darl?k, tan?mlanmam??",66,MALE,ÜROLOJ? SERV?S?,31,13
+481,{'J34.2'},"{'D', 'C'}",Genel Anestezi,,37,MALE,KBB SERV?S?,45,5
+1665,"{nan, 'I83.9'}","{'E', 'C'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,55,MALE,KVC SERV?S?,25,4
+2400,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Alt ekstremitenin variköz venleri,48,FEMALE,KVC SERV?S?,25,11
+2070,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",19,FEMALE,GENEL CERRAH? SERV?S?,47,14
+2435,"{'L30.8', 'K21', 'K80.8', 'M79.1'}",{'B'},Genel Anestezi,"Kolelitiazis, di?er",24,FEMALE,GENEL CERRAH? SERV?S?,29,11
+2509,"{nan, 'J34.2'}","{0, 'E', 'B'}",Genel Anestezi,Nazal septum deviasyonu,31,FEMALE,KBB SERV?S?,6,13
+909,"{nan, 'M51.8'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,"?ntervertebral disk bozukluklar? di?er, tan?mlanmam??",45,MALE,ORTOPED? SERV?S?,42,9
+1516,{'K40'},"{'B', 'A2'}",Genel Anestezi,?nguinal herni,66,MALE,GENEL CERRAH? SERV?S?,43,4
+1825,{'M95.0'},"{'D', 'B', 'C'}",Genel Anestezi,Burnun kazan?lm?? deformitesi,22,FEMALE,PLAST?K CERRAH?,39,6
+444,"{nan, 'M51.8'}","{0, 'B'}",Genel Anestezi,"?ntervertebral disk bozukluklar? di?er, tan?mlanmam??",48,MALE,ORTOPED? SERV?S?,21,9
+789,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,49,MALE,KVC SERV?S?,25,12
+1536,"{nan, 'M51.1'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",61,FEMALE,ORTOPED? SERV?S?,42,4
+3161,{'I86.1'},{'C'},Spinal Anestezi,Varikosel,19,MALE,ÜROLOJ? SERV?S?,15,15
+3255,{'H25.1'},{'C'},Lokal Anestezi,Senil nükleer katarakt,69,MALE,GÖZ HASTALIKLARI SERV?S?,49,12
+2384,{'H65.4'},{'B'},Genel Anestezi,,47,FEMALE,KBB SERV?S?,6,11
+3328,{'Z41.2'},{'D'},Lokal Anestezi,Rutin ve dini sünnet,6,MALE,ÜROLOJ? SERV?S?,15,11
+2241,{'A63.0'},{0},Sedo Analjezi,Anogenital (veneryal) Si?iller,30,FEMALE,GENEL CERRAH? SERV?S?,36,13
+3157,"{nan, 'M51.1'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",60,FEMALE,NÖRO??RÜRJ? SERV?S?,21,12
+2768,"{'J30', 'L30', 'J34.2'}","{'D', 'B', 'C'}",Genel Anestezi,Nazal septum deviasyonu,23,FEMALE,KBB SERV?S?,18,11
+3695,{'K40'},"{'D', 'C'}",Sedo Analjezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",62,MALE,GENEL CERRAH? SERV?S?,47,4
+3445,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",25,FEMALE,GENEL CERRAH? SERV?S?,43,6
+3467,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,48,FEMALE,KVC SERV?S?,25,4
+1436,{'K40.9'},{'C'},Spinal Anestezi,"Kolelitiazis, di?er",72,MALE,GENEL CERRAH? SERV?S?,36,3
+3235,"{'Z41.2', 'L30.3'}",{'D'},Lokal Anestezi,Rutin ve dini sünnet,4,MALE,ÜROLOJ? SERV?S?,15,2
+2816,"{'L30.8', 'M79.1', 'K40.9', 'Z00.8'}",{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",66,MALE,GENEL CERRAH? SERV?S?,29,6
+2444,{'I83'},"{0, 'E'}",Sedo Analjezi,Alt ekstremitenin variköz venleri,56,MALE,KVC SERV?S?,46,6
+1145,{'K80.0'},{'B'},Genel Anestezi,"Safra kesesi ta??, di?er kolesistit ile",52,FEMALE,GENEL CERRAH? SERV?S?,33,14
+3643,"{'K21.0', 'I87.2', 'M16.9'}","{'B', 'C'}",Genel Anestezi,,62,FEMALE,ORTOPED? SERV?S?,32,4
+2881,{'Z41.2'},{'D'},Sedo Analjezi,Rutin ve dini sünnet,9,MALE,ÜROLOJ? SERV?S?,15,13
+902,{'L05'},{'C'},Spinal Anestezi,Pilonidal kist,21,MALE,GENEL CERRAH? SERV?S?,43,9
+471,"{'Z41.2', 'L30.3'}",{'D'},Sedo Analjezi,Rutin ve dini sünnet,7,MALE,ÜROLOJ? SERV?S?,15,10
+3517,"{nan, 'M51.1'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,"?ntervertebral disk bozukluklar? di?er, tan?mlanmam??",33,FEMALE,NÖRO??RÜRJ? SERV?S?,21,4
+2526,{'K80.1'},{'B'},Genel Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",45,FEMALE,GENEL CERRAH? SERV?S?,5,6
+152,"{'I83', nan}","{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,57,FEMALE,GENEL KARMA CERRAH? SERV?S?,8,3
+1981,"{'I10', 'K40'}",{'B'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",59,MALE,GENEL CERRAH? SERV?S?,43,13
+1384,{'H26.9'},{'C'},Sedo Analjezi,"Katarakt, tan?mlanmam??",49,MALE,GÖZ HASTALIKLARI SERV?S?,49,12
+2016,{'M50.1'},{'A3'},Genel Anestezi,"Servikal disk bozukluklar?, radikülopati ile",49,MALE,ORTOPED? SERV?S?,42,2
+1604,{'M50.1'},{'A3'},Genel Anestezi,"Servikal disk bozukluklar?, radikülopati ile",33,FEMALE,ORTOPED? SERV?S?,42,13
+132,{'J34'},"{'D', 'C'}",Genel Anestezi,,35,MALE,KBB SERV?S?,37,1
+391,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,48,MALE,KVC SERV?S?,25,13
+3473,{'K40'},{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",38,MALE,GENEL CERRAH? SERV?S?,43,6
+2677,"{nan, 'Y30'}","{'B', 'C'}",Spinal Anestezi,"Yüksek bir yerden dü?me, atlama veya itilme gerçekle?me ?ekli belirlenmemi?",57,FEMALE,ORTOPED? SERV?S?,10,14
+2127,{'M95.0'},"{'D', 'B', 'C'}",Genel Anestezi,Burnun kazan?lm?? deformitesi,35,MALE,PLAST?K CERRAH?,39,2
+3301,"{nan, 'Z00.8', 'M51.1'}","{0, 'B'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",40,FEMALE,NÖRO??RÜRJ? SERV?S?,42,12
+2547,"{'R52.9', nan, 'I10', 'M51.1'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",58,FEMALE,NÖRO??RÜRJ? SERV?S?,21,2
+1341,"{nan, 'M51.1'}","{0, 'B'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",56,MALE,ORTOPED? SERV?S?,42,10
+1273,"{nan, 'K40.3'}",{'B'},Genel Anestezi,"Bilateral inguinal herni, gangrenli",51,FEMALE,GENEL CERRAH? SERV?S?,5,10
+2674,{'H25.1'},{'C'},Sedo Analjezi,senil nükleer katarakt,51,MALE,GÖZ HASTALIKLARI SERV?S?,49,4
+246,{'K40'},"{'D', 'C'}",Genel Anestezi,"Tek tarafl? veya tan?mlanmam?? inguinal herni, obstrüksiyonlu,gangrensiz",43,MALE,GENEL CERRAH? SERV?S?,5,4
+2305,{'M25.5'},{'B'},Spinal Anestezi,Eklem a?r?s?,65,FEMALE,ORTOPED? SERV?S?,40,4
+2211,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,29,FEMALE,KVC SERV?S?,46,12
+3710,"{'K80.8', 'L30', 'K29.1', 'M79.9', 'M79.1'}",{'B'},Genel Anestezi,"Kolesistitler, di?er",51,FEMALE,GENEL CERRAH? SERV?S?,29,6
+1797,{'M24.1'},{'B'},Spinal Anestezi,Artiküler k?k?rdak di?er bozukluklar?,64,FEMALE,ORTOPED? SERV?S?,40,2
+3546,"{nan, 'K21', 'M25.5', 'I87.2'}","{'D', 'C'}",Genel Anestezi,Eklem a?r?s?,51,FEMALE,ORTOPED? SERV?S?,32,14
+1660,{'N43'},{'C'},Spinal Anestezi,Ankiste hidrosel,54,MALE,ÜROLOJ? SERV?S?,27,13
+2874,{'M95.0'},"{'D', 'C'}",Genel Anestezi,Burnun kazan?lm?? deformitesi,20,MALE,PLAST?K CERRAH?,39,6
+1580,"{'K21.9', 'L05', 'T78.4'}",{'C'},Spinal Anestezi,,21,MALE,GENEL CERRAH? SERV?S?,33,4
+876,{'K80.1'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",36,FEMALE,GENEL CERRAH? SERV?S?,5,4
+2847,"{'K21.9', 'M19.9', 'N20.1'}",{'B'},Genel Anestezi,,34,MALE,ÜROLOJ? SERV?S?,15,6
+490,{'K40.3'},{'C'},Spinal Anestezi,,53,MALE,GENEL CERRAH? SERV?S?,35,3
+1839,{'I83.0'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,42,FEMALE,KVC SERV?S?,46,6
+533,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,27,FEMALE,KVC SERV?S?,25,4
+981,"{nan, 'K40'}",{'B'},Genel Anestezi,?nguinal herni,26,MALE,GENEL CERRAH? SERV?S?,5,12
+2382,{'M95.0'},"{'D', 'C'}",Genel Anestezi,Burnun kazan?lm?? deformitesi,26,MALE,PLAST?K CERRAH?,39,11
+441,"{nan, 'J34.3', 'H65.2'}","{'D', 'E', 'C'}",Genel Anestezi,Kronik seröz otitis media | Konka hipertrofisi,18,MALE,KBB SERV?S?,45,5
+3312,{'N40'},{0},Spinal Anestezi,Benign prostat hiperplazisi,64,MALE,ÜROLOJ? SERV?S?,26,6
+1789,{'K80.1'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",60,FEMALE,GENEL CERRAH? SERV?S?,5,13
+2727,"{'J30', 'R07.0', 'J34'}","{0, 'C'}",Genel Anestezi,Burun ve nazal sinüslerin di?er bozukluklar?,20,MALE,KBB SERV?S?,18,12
+1988,{'L05.0'},{'C'},Sedo Analjezi,Pilonidal kist,23,FEMALE,GENEL CERRAH? SERV?S?,36,13
+1961,{'H04.5'},{'C'},Genel Anestezi,"Göz kapa?? bozuklu?u, tan?mlanmam??",70,FEMALE,GÖZ HASTALIKLARI SERV?S?,49,14
+1758,{'R22'},"{'D', 'C'}",Sedo Analjezi,"Birden fazla yerin lokalize ?i?me, kitle ve yumrusu",49,FEMALE,PLAST?K CERRAH?,28,2
+2336,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,29,FEMALE,KVC SERV?S?,46,11
+2675,"{'M25.8', 'Z00.8'}",{'B'},Genel Anestezi,"Di?er tan?mlanm?? eklem bozukluklar?, birden fazla yer",13,MALE,ORTOPED? SERV?S?,40,6
+2365,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",48,MALE,GENEL CERRAH? SERV?S?,36,12
+360,"{nan, 'M51.1'}","{0, 'B'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",59,FEMALE,ORTOPED? SERV?S?,42,5
+1364,"{nan, 'K40.9'}","{'B', 'C'}",Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",54,MALE,GENEL CERRAH? SERV?S?,33,3
+3512,{'K40'},{'B'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",31,MALE,GENEL CERRAH? SERV?S?,36,12
+1541,{'H26.9'},{'C'},Sedo Analjezi,,67,FEMALE,GÖZ HASTALIKLARI SERV?S?,49,2
+1487,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,57,MALE,KVC SERV?S?,25,12
+2673,"{'N40', 'N20.1'}","{'D', 'B'}",Genel Anestezi,Üreter ta??,51,MALE,ÜROLOJ? SERV?S?,27,2
+3691,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",62,FEMALE,GENEL CERRAH? SERV?S?,47,4
+674,{'I83.9'},"{0, 'E'}",Sedo Analjezi,"Alt ekstremitenin variköz venleri, ülserli",52,MALE,KVC SERV?S?,25,7
+1779,{'H25.1'},{'C'},Sedo Analjezi,,61,MALE,GÖZ HASTALIKLARI SERV?S?,49,13
+669,{'I83'},"{0, 'E'}",Sedo Analjezi,"Alt ekstremitenin variköz venleri, ülserli",35,FEMALE,KVC SERV?S?,46,12
+1163,{'N39.9'},{'D'},Genel Anestezi,"Üriner sistemin bozuklu?u, tan?mlanmam??",40,FEMALE,ÜROLOJ? SERV?S?,26,14
+3402,{'I84.4'},"{'D', 'C'}",Spinal Anestezi,"Hemoroidler, tan?mlanmam?? komplikasyonsuz",34,MALE,GENEL CERRAH? SERV?S?,36,6
+984,{'I86.1'},{'C'},Spinal Anestezi,Varikosel,29,MALE,ÜROLOJ? SERV?S?,11,12
+2678,{'K40'},{'C'},Spinal Anestezi,?nguinal herni,47,MALE,GENEL CERRAH? SERV?S?,43,2
+1304,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,37,FEMALE,KVC SERV?S?,25,13
+2535,{'K60.1'},"{'D', 'C'}",Sedo Analjezi,Anal fissür tan?mlanmam??,56,FEMALE,GENEL CERRAH? SERV?S?,36,4
+3654,{'N20.0'},{'B'},Spinal Anestezi,Böbrek ta??,45,MALE,ÜROLOJ? SERV?S?,26,14
+3454,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,55,MALE,KVC SERV?S?,25,4
+1301,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,49,MALE,KVC SERV?S?,25,13
+2889,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",28,MALE,GENEL CERRAH? SERV?S?,47,13
+2408,"{nan, 'M51.1'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",49,FEMALE,ORTOPED? SERV?S?,42,4
+2543,"{nan, 'K21', 'M17.9'}","{'D', 'B', 'C'}",Spinal Anestezi,"Gonartroz, tan?mlanmam??",72,FEMALE,ORTOPED? SERV?S?,32,13
+618,"{'K80', 'K80.8'}",{'B'},Genel Anestezi,Safra ta??,36,MALE,GENEL CERRAH? SERV?S?,47,9
+3493,{'I73.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,42,FEMALE,KVC SERV?S?,46,6
+682,{'L05.9'},{'C'},Sedo Analjezi,"Pilonidal kist, apsesiz",16,MALE,GENEL CERRAH? SERV?S?,36,10
+2423,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,63,FEMALE,KVC SERV?S?,46,2
+2592,{'K40.3'},"{'D', 'C'}",Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",70,MALE,GENEL CERRAH? SERV?S?,5,11
+2719,{'K40'},{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",44,MALE,GENEL CERRAH? SERV?S?,43,12
+1453,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,38,MALE,KVC SERV?S?,46,13
+2480,{'K40.9'},{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",41,MALE,GENEL CERRAH? SERV?S?,36,13
+2926,{'S52.2'},"{'B', 'C'}",Genel Anestezi,Ulna ?aft? k?r???,45,MALE,ORTOPED? SERV?S?,22,14
+3083,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",32,FEMALE,GENEL CERRAH? SERV?S?,36,12
+1250,{'K40.9'},{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",44,MALE,GENEL CERRAH? SERV?S?,36,13
+188,"{nan, 'M51.9'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,"?ntervertebral disk bozukluklar? di?er, tan?mlanmam??",56,FEMALE,ORTOPED? SERV?S?,21,10
+1778,{'H25.1'},{'C'},Sedo Analjezi,,62,FEMALE,GÖZ HASTALIKLARI SERV?S?,49,13
+2750,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,44,FEMALE,KVC SERV?S?,25,2
+1670,"{nan, 'I83.9'}","{'E', 'C'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,59,MALE,KVC SERV?S?,25,4
+410,{'N47'},"{0, 'D'}",Sedo Analjezi,"Sünnet derisinin fazlal???, fimozis ve parafimozis",3,MALE,ÜROLOJ? SERV?S?,11,12
+2925,{'L05'},{'C'},Sedo Analjezi,Pilonidal kist,21,MALE,GENEL CERRAH? SERV?S?,43,2
+254,{'L05'},{'C'},Spinal Anestezi,,24,MALE,GENEL CERRAH? SERV?S?,43,5
+2123,{'K80.1'},{'B'},Genel Anestezi,"Safra kesesi ta??, akut kolesistit ile",34,FEMALE,GENEL CERRAH? SERV?S?,5,14
+3530,{'K40'},{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",37,FEMALE,GENEL CERRAH? SERV?S?,36,11
+1567,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,47,MALE,KVC SERV?S?,25,13
+1921,"{nan, 'M51.1'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,,78,FEMALE,ORTOPED? SERV?S?,42,2
+455,{'Q44.6'},{'B'},Genel Anestezi,,26,FEMALE,GENEL CERRAH? SERV?S?,35,4
+3211,{'N92.1'},{0},Sedo Analjezi,"A??r? ve s?k menstrüasyon, düzensiz siklus ile",41,FEMALE,KADIN DO?UM SERV?S?,48,4
+2402,{'K40'},{'C'},Spinal Anestezi,"Bilateral inguinal herni, gangrenli",50,MALE,GENEL CERRAH? SERV?S?,47,4
+429,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,30,FEMALE,KVC SERV?S?,25,10
+399,"{nan, 'M51.8', 'M48.06', 'M43.1'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,"Spinal stenoz, lomber bölge",41,MALE,ORTOPED? SERV?S?,42,4
+2532,{'K42'},{'C'},Genel Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",47,MALE,GENEL CERRAH? SERV?S?,36,13
+1622,{'K42.0'},{'C'},Genel Anestezi,Umbilikal herni,60,MALE,GENEL CERRAH? SERV?S?,47,13
+2954,"{nan, 'S32.01', 'M43.1'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,"Lomber vertebra k?r???, aç?k",42,FEMALE,NÖRO??RÜRJ? SERV?S?,42,2
+2612,{'K40.9'},{'C'},Spinal Anestezi,"Kolelitiazis, di?er",33,MALE,GENEL CERRAH? SERV?S?,47,6
+3212,{'K40.9'},{'C'},Sedo Analjezi,?nguinal herni,39,MALE,GENEL CERRAH? SERV?S?,29,12
+1636,{'I83'},"{0, 'E'}",Sedo Analjezi,Alt ekstremitenin variköz venleri,48,FEMALE,KVC SERV?S?,46,4
+894,{'S42.0'},{'C'},Genel Anestezi,Klavikula k?r???,46,MALE,ORTOPED? SERV?S?,23,3
+3499,{'N92.1'},{0},Sedo Analjezi,"A??r? ve s?k menstrüasyon, düzensiz siklus ile",41,FEMALE,KADIN DO?UM SERV?S?,48,6
+3014,"{'M50.1', 'Z00.0', 'E03.9'}",{'A3'},Genel Anestezi,"Servikal disk bozukluklar?, radikülopati ile",44,FEMALE,NÖRO??RÜRJ? SERV?S?,42,6
+3063,{'H02.9'},{'C'},Sedo Analjezi,"Göz kapa?? bozuklu?u, tan?mlanmam??",47,FEMALE,PLAST?K CERRAH?,39,2
+2736,{'J35.2'},"{'D', 'E'}",Genel Anestezi,Nonsüpüratif otitis media,5,MALE,KBB SERV?S?,6,6
+2756,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,44,MALE,KVC SERV?S?,25,2
+630,{'I86.1'},{'C'},Genel Anestezi,Varikosel,20,MALE,ÜROLOJ? SERV?S?,31,4
+1432,{'N20.9'},{'D'},Spinal Anestezi,"Üriner ta??, tan?mlanmam??",37,FEMALE,ÜROLOJ? SERV?S?,26,3
+2414,{'M25.5'},{'C'},Lokal Anestezi,Eklem a?r?s?,70,FEMALE,ORTOPED? SERV?S?,40,2
+2635,{'K40.9'},{'C'},Spinal Anestezi,,61,MALE,GENEL CERRAH? SERV?S?,36,6
+1976,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,56,FEMALE,KVC SERV?S?,46,13
+3218,{'N35.9'},"{0, 'C'}",Spinal Anestezi,"Üretral darl?k, tan?mlanmam??",31,MALE,ÜROLOJ? SERV?S?,26,2
+1497,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,46,FEMALE,KVC SERV?S?,25,12
+2494,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",66,FEMALE,GENEL CERRAH? SERV?S?,36,6
+637,"{nan, 'M51.1'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",48,FEMALE,ORTOPED? SERV?S?,42,10
+3286,{'K40.3'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",70,MALE,GENEL CERRAH? SERV?S?,5,6
+1117,{'Z44.3'},{'B'},Genel Anestezi,D?? meme protezinin uygulamas?,21,FEMALE,PLAST?K CERRAH?,39,4
+385,{'H26.9'},{'C'},Sedo Analjezi,,46,MALE,GÖZ HASTALIKLARI SERV?S?,49,4
+1246,{'I83'},"{'E', 'C'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,45,FEMALE,KVC SERV?S?,25,13
+3231,"{'Z41.2', 'L30.3'}",{'D'},Sedo Analjezi,Rutin ve dini sünnet,7,MALE,ÜROLOJ? SERV?S?,15,2
+1135,{'N47'},"{0, 'D'}",Sedo Analjezi,"Sünnet derisinin fazlal???, fimozis ve parafimozis",2,MALE,ÜROLOJ? SERV?S?,11,3
+2139,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",35,FEMALE,GENEL CERRAH? SERV?S?,36,4
+946,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,52,MALE,KVC SERV?S?,46,7
+889,"{nan, 'M51.1', 'M54.5', 'M43.1', 'M48.06'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,Bel a?r?s?  ,43,FEMALE,ORTOPED? SERV?S?,42,3
+414,{'N20.1'},{'B'},Genel Anestezi,Üreter ta??,34,FEMALE,ÜROLOJ? SERV?S?,11,12
+573,{'M50'},{'A3'},Genel Anestezi,"Servikal disk bozukluklar?, myelopati ile (G99.2*)",35,FEMALE,ORTOPED? SERV?S?,42,14
+3155,{'K40.3'},"{'B', 'C'}",Spinal Anestezi,?nguinal herni,50,MALE,GENEL CERRAH? SERV?S?,5,4
+1217,{'K80.1'},{'B'},Genel Anestezi,"Safra kesesi ta??, di?er kolesistit ile",52,FEMALE,GENEL CERRAH? SERV?S?,5,12
+2201,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,43,MALE,KVC SERV?S?,46,12
+2237,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,44,FEMALE,KVC SERV?S?,25,4
+3034,{'I83.0'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,43,FEMALE,KVC SERV?S?,25,14
+2404,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Alt ekstremitenin variköz venleri,40,FEMALE,KVC SERV?S?,25,11
+1123,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,32,FEMALE,KVC SERV?S?,46,9
+853,"{nan, 'K40'}",{'B'},Spinal Anestezi,?nguinal herni,70,MALE,GENEL CERRAH? SERV?S?,5,7
+1037,"{nan, 'M17.9'}","{'B', 'C'}",Spinal Anestezi,"Gonartroz, tan?mlanmam??",68,FEMALE,ORTOPED? SERV?S?,23,3
+1668,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,49,MALE,KVC SERV?S?,25,4
+3143,{'K40'},{'C'},Spinal Anestezi,?nguinal herni,38,MALE,GENEL CERRAH? SERV?S?,36,11
+1983,{'M50.1'},{'A3'},Genel Anestezi,"Servikal disk bozukluklar?, radikülopati ile",43,FEMALE,ORTOPED? SERV?S?,42,14
+829,{'M17'},"{'B', 'C'}",Genel Anestezi,Gonartroz [diz ekleminin artrozu],67,FEMALE,ORTOPED? SERV?S?,10,12
+2443,{'I83.0'},"{0, 'E'}",Sedo Analjezi,"Alt ekstremitenin variköz venleri, ülserli",43,MALE,ORTOPED? SERV?S?,46,6
+356,{'M50.9'},{'A3'},Genel Anestezi,"Servikal disk bozuklu?u, tan?mlanmam??",36,MALE,ORTOPED? SERV?S?,21,5
+1372,{'I83.9'},"{0, 'E'}",Sedo Analjezi,,65,MALE,KVC SERV?S?,25,9
+2602,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,55,MALE,KVC SERV?S?,25,11
+1972,{'N40'},{'B'},Spinal Anestezi,Benign prostat hiperplazisi,65,MALE,ÜROLOJ? SERV?S?,31,6
+1029,{'L05'},{'C'},Spinal Anestezi,,19,MALE,GENEL CERRAH? SERV?S?,5,9
+980,{'N47'},"{0, 'D'}",Sedo Analjezi,"Sünnet derisinin fazlal???, fimozis ve parafimozis",3,MALE,ÜROLOJ? SERV?S?,11,12
+1767,"{nan, 'K40'}",{'B'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",70,MALE,GENEL CERRAH? SERV?S?,43,6
+2163,{'M72.0'},{'C'},Genel Anestezi,"Fibroblastik bozukluk, tan?mlanmam??",54,MALE,PLAST?K CERRAH?,28,11
+1289,{'N63'},"{'D', 'B'}",Genel Anestezi,Memede tan?mlanmam?? kitle,32,FEMALE,GENEL CERRAH? SERV?S?,43,9
+1471,{'K40'},{'B'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",63,MALE,GENEL CERRAH? SERV?S?,43,4
+1302,{'K80.1'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",61,FEMALE,GENEL CERRAH? SERV?S?,5,13
+955,{'C67.9'},{'A3'},Spinal Anestezi,"Mesane malign neoplazm?, tan?mlanmam??",60,FEMALE,ÜROLOJ? SERV?S?,27,7
+2668,"{'M79.1', 'K29.1', 'L30', 'K81'}",{'B'},Genel Anestezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,25,FEMALE,GENEL CERRAH? SERV?S?,29,4
+245,"{'K21.9', 'J15.9', 'R31', 'N30.0', 'M19.9', 'I10'}",{'C'},Spinal Anestezi,,71,MALE,ÜROLOJ? SERV?S?,15,2
+1115,{'M95.0'},"{'D', 'C'}",Genel Anestezi,Burnun kazan?lm?? deformitesi,29,FEMALE,PLAST?K CERRAH?,39,4
+658,{'K40'},{'C'},Spinal Anestezi,,50,MALE,GENEL CERRAH? SERV?S?,43,4
+1048,{'K40.9'},{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",50,MALE,GENEL CERRAH? SERV?S?,47,14
+1201,{'K60.3'},{'C'},Genel Anestezi,Anal fistül,34,FEMALE,GENEL CERRAH? SERV?S?,36,2
+2212,"{nan, 'M51.1'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,,47,FEMALE,ORTOPED? SERV?S?,42,4
+2985,{'N47'},{'D'},Sedo Analjezi,,7,MALE,ÜROLOJ? SERV?S?,31,15
+550,{'I83'},"{0, 'E'}",Sedo Analjezi,Alt ekstremitenin variköz venleri,38,FEMALE,KVC SERV?S?,25,13
+1576,"{nan, 'M25.8'}","{'D', 'B', 'C'}",Genel Anestezi,Di?er tan?mlanm?? eklem bozukluklar?,53,MALE,ORTOPED? SERV?S?,40,12
+2118,{'M95.0'},"{'D', 'C'}",Genel Anestezi,Burnun kazan?lm?? deformitesi,27,MALE,PLAST?K CERRAH?,39,4
+411,"{'M50.1', 'M54.2'}",{'A3'},Genel Anestezi,"Servikal disk bozukluklar?, radikülopati ile",42,FEMALE,ORTOPED? SERV?S?,21,2
+2629,"{'H04.1', 'H11.8', 'H11.0'}",{'D'},Sedo Analjezi,Senil nükleer katarakt,36,FEMALE,GÖZ HASTALIKLARI SERV?S?,24,13
+2706,"{nan, 'M50.0'}","{0, 'A3'}",Genel Anestezi,"Servikal disk bozukluklar?, myelopati ile (G99.2*)",33,FEMALE,NÖRO??RÜRJ? SERV?S?,42,13
+1788,"{nan, 'K40.3'}",{'B'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",49,MALE,GENEL CERRAH? SERV?S?,5,13
+1729,{'K40.9'},{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",66,MALE,GENEL CERRAH? SERV?S?,36,11
+2573,{'K40'},{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",66,MALE,GENEL CERRAH? SERV?S?,47,13
+554,{'I83'},"{0, 'E'}",Spinal Anestezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,19,MALE,KVC SERV?S?,25,12
+1327,"{nan, 'N30.0', 'C67.4'}",{0},Sedo Analjezi,Akut sistit,58,MALE,ÜROLOJ? SERV?S?,31,14
+3434,"{'J30', 'L30', 'J34.2', 'R07.0'}","{'D', 'B', 'C'}",Genel Anestezi,Nazal septum deviasyonu,30,FEMALE,KBB SERV?S?,18,12
+1817,{'K80.8'},{'B'},Genel Anestezi,,29,FEMALE,GENEL CERRAH? SERV?S?,47,2
+3716,{'K40'},"{'D', 'C'}",Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",64,MALE,GENEL CERRAH? SERV?S?,43,14
+1520,{'N20.1'},{'B'},Genel Anestezi,Üreter ta??,59,FEMALE,ÜROLOJ? SERV?S?,27,12
+1826,{'M25.5'},"{0, 'C'}",Sedo Analjezi,Eklem a?r?s?,9,MALE,ORTOPED? SERV?S?,10,13
+1712,{'K40.3'},{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",50,MALE,GENEL CERRAH? SERV?S?,36,13
+745,"{nan, 'K40'}",{'B'},Spinal Anestezi,"Bilateral inguinal herni, gangrenli",25,MALE,GENEL CERRAH? SERV?S?,5,2
+3098,"{'Z41.2', 'Q53.2'}","{'D', 'B'}",Genel Anestezi,Rutin ve dini sünnet,6,MALE,ÜROLOJ? SERV?S?,15,11
+413,{'N31.2'},{'C'},Genel Anestezi,"Flask nöropatik mesane, ba?ka yerde s?n?flanmam??",36,FEMALE,ÜROLOJ? SERV?S?,11,12
+699,{'H26'},{'C'},Sedo Analjezi,"Kataraktlar, di?er",43,MALE,GÖZ HASTALIKLARI SERV?S?,49,2
+1898,{'N40'},{'B'},Spinal Anestezi,Benign prostat hiperplazisi,72,MALE,ÜROLOJ? SERV?S?,31,11
+1185,{'M95.0'},"{'D', 'B', 'C'}",Genel Anestezi,Burnun kazan?lm?? deformitesi,30,FEMALE,PLAST?K CERRAH?,39,6
+1752,"{nan, 'M17.9'}","{'B', 'C'}",Genel Anestezi,"Gonartroz, tan?mlanmam??",62,FEMALE,ORTOPED? SERV?S?,23,2
+701,{'K80.8'},{'B'},Genel Anestezi,,38,FEMALE,GENEL CERRAH? SERV?S?,33,6
+3555,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,43,FEMALE,KVC SERV?S?,46,14
+522,{'K80.8'},{'B'},Genel Anestezi,,44,MALE,GENEL CERRAH? SERV?S?,35,3
+2412,{'H02.9'},{'C'},Sedo Analjezi,,54,FEMALE,PLAST?K CERRAH?,39,14
+2556,{'I83.9'},"{0, 'E'}",Lokal Anestezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,42,FEMALE,KVC SERV?S?,46,6
+344,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",56,FEMALE,GENEL CERRAH? SERV?S?,47,3
+2628,{'L05.9'},{'C'},Sedo Analjezi,,19,MALE,GENEL CERRAH? SERV?S?,36,6
+2751,"{'L30.8', 'M79.1', 'K40.9'}",{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",65,MALE,GENEL CERRAH? SERV?S?,29,2
+3528,"{'M20.2', 'M25.5', 'R22.4'}",{'C'},Spinal Anestezi,Eklem a?r?s?,61,FEMALE,ORTOPED? SERV?S?,23,4
+960,"{nan, 'K40.4'}",{'B'},Spinal Anestezi,,58,MALE,GENEL CERRAH? SERV?S?,5,7
+1414,"{nan, 'M54.4', 'M51.1'}","{0, 'E', 'B'}",Genel Anestezi,"Lumbago, siyatik ile",45,FEMALE,ORTOPED? SERV?S?,42,4
+2934,"{'M79.1', 'K29.1', 'L30', 'K80.8'}",{'B'},Genel Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",59,FEMALE,GENEL CERRAH? SERV?S?,29,2
+670,{'I83'},"{0, 'E'}",Sedo Analjezi,,51,FEMALE,KVC SERV?S?,8,7
+1218,{'K80.1'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",47,FEMALE,GENEL CERRAH? SERV?S?,47,12
+3299,"{nan, 'N92'}",{0},Sedo Analjezi,"A??r? ve s?k menstrüasyon, düzenli siklus ile",47,FEMALE,KADIN DO?UM SERV?S?,48,4
+3397,"{nan, 'M51.0'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, myelopati ile (G99.2*)",33,FEMALE,NÖRO??RÜRJ? SERV?S?,21,11
+3015,{'K40.9'},{'C'},Spinal Anestezi,"Tek tarafl? veya tan?mlanmam?? inguinal herni, gangrensiz veya obstrüksiyonsuz ",41,MALE,GENEL CERRAH? SERV?S?,36,12
+355,{'K40'},{'B'},Spinal Anestezi,,26,MALE,GENEL CERRAH? SERV?S?,43,5
+625,{'I83'},"{0, 'E'}",Sedo Analjezi,Alt ekstremitenin variköz venleri,34,FEMALE,KVC SERV?S?,46,10
+340,{'I83'},{0},Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,21,MALE,GENEL KARMA CERRAH? SERV?S?,25,9
+3599,{'H25.1'},{'C'},Sedo Analjezi,Senil nükleer katarakt,58,MALE,GÖZ HASTALIKLARI SERV?S?,49,11
+3597,{'H25.1'},{'C'},Sedo Analjezi,Senil nükleer katarakt,63,MALE,GÖZ HASTALIKLARI SERV?S?,49,11
+495,"{nan, 'L03.9', 'M23.9'}",{'C'},Spinal ve Genel Anestezi,"Dizin iç yerle?im bozuklu?u, tan?mlanmam??",48,MALE,ORTOPED? SERV?S?,17,11
+3025,{'N47'},{'D'},Sedo Analjezi,"Sünnet derisinin fazlal???, fimozis ve parafimozis",16,MALE,ÜROLOJ? SERV?S?,31,2
+3458,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",68,FEMALE,GENEL CERRAH? SERV?S?,5,4
+1249,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,39,FEMALE,KVC SERV?S?,25,13
+405,{'K40.9'},{'C'},Spinal Anestezi,"Tek tarafl? veya tan?mlanmam?? inguinal herni, gangrensiz veya obstrüksiyonsuz",54,MALE,GENEL CERRAH? SERV?S?,36,2
+3567,"{nan, 'J34.2'}","{0, 'E', 'B', 'C'}",Genel Anestezi,Nazal septum deviasyonu,30,FEMALE,KBB SERV?S?,6,6
+234,"{'I83', nan}","{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,26,MALE,GENEL KARMA CERRAH? SERV?S?,8,2
+3610,{'K40'},{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",42,FEMALE,GENEL CERRAH? SERV?S?,36,14
+1482,"{'M51.1', nan, 'M48.00', 'M43.1'}","{0, 'B', 'C', 'D', 'A3'}",Sedo Analjezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",59,FEMALE,ORTOPED? SERV?S?,21,13
+3440,"{nan, 'M51.1'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",59,FEMALE,NÖRO??RÜRJ? SERV?S?,42,2
+2100,{'L05.9'},{'C'},Sedo Analjezi,Pilonidal kist,43,MALE,GENEL CERRAH? SERV?S?,36,2
+3210,{'N92.1'},{0},Sedo Analjezi,Jinekolojik muayene (genel) (ola?an),67,FEMALE,KADIN DO?UM SERV?S?,48,4
+1440,{'K40.9'},{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",59,MALE,GENEL CERRAH? SERV?S?,47,4
+1629,"{'N40', 'N39.0'}","{'B', 'C'}",Genel Anestezi,Benign prostat hiperplazisi,63,MALE,ÜROLOJ? SERV?S?,26,4
+1222,{'K40.1'},{'B'},Genel Anestezi,"Bilateral inguinal herni, gangrenli",33,FEMALE,GENEL CERRAH? SERV?S?,47,12
+1500,"{nan, 'M51.8', 'M48.0', 'M43.1'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,,54,FEMALE,ORTOPED? SERV?S?,21,4
+3247,{'I83.9'},"{0, 'E'}",Lokal Anestezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,63,FEMALE,KVC SERV?S?,25,4
+3344,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",46,FEMALE,GENEL CERRAH? SERV?S?,47,2
+2546,{'I83.9'},"{0, 'E'}",Lokal Anestezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,41,FEMALE,KVC SERV?S?,46,6
+255,{'H26'},{'C'},Sedo Analjezi,"Kataraktlar, di?er",62,MALE,GÖZ HASTALIKLARI SERV?S?,49,9
+1261,{'N40'},"{0, 'C'}",Spinal Anestezi,Benign prostat hiperplazisi,64,MALE,ÜROLOJ? SERV?S?,26,13
+681,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,38,FEMALE,KVC SERV?S?,46,9
+512,"{'I83', nan}","{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,37,FEMALE,KVC SERV?S?,8,6
+2207,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,34,MALE,KVC SERV?S?,46,12
+806,{'C67.0'},{'B'},Spinal Anestezi,,55,MALE,ÜROLOJ? SERV?S?,15,2
+3636,"{nan, 'J35.2'}","{0, 'D'}",Genel Anestezi,Adenoidlerin hipertrofisi,18,FEMALE,KBB SERV?S?,2,12
+1232,{'L05'},{'C'},Spinal Anestezi,Pilonidal kist,18,MALE,GENEL CERRAH? SERV?S?,43,4
+1411,{'S82.1'},{'B'},Spinal Anestezi,Tibia üst uç k?r???,54,FEMALE,ORTOPED? SERV?S?,22,3
+2044,{'R22.2'},{'D'},Genel Anestezi,"Gövdenin lokalize ?i?me, kitle ve yumrusu",37,FEMALE,PLAST?K CERRAH?,39,6
+1040,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",54,MALE,GENEL CERRAH? SERV?S?,47,10
+766,{'D29.3'},{'C'},Spinal Anestezi,Epididimis benign neoplazm?,63,MALE,ÜROLOJ? SERV?S?,26,1
+1741,{'K40'},{'C'},Genel Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",40,MALE,GENEL CERRAH? SERV?S?,47,12
+1025,"{nan, 'L85.3', 'M17.9'}","{'B', 'C'}",Spinal Anestezi,"Gonartroz, tan?mlanmam??",72,FEMALE,ORTOPED? SERV?S?,23,3
+3712,"{nan, 'M25.5'}","{'B', 'C'}",Spinal Anestezi,Eklem a?r?s?,52,FEMALE,ORTOPED? SERV?S?,10,14
+1787,{'N20.0'},"{'D', 'C'}",Sedo Analjezi,Böbrek ta??,45,MALE,ÜROLOJ? SERV?S?,26,14
+1114,{'H26.9'},{'C'},Sedo Analjezi,,55,MALE,GÖZ HASTALIKLARI SERV?S?,49,14
+1419,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",20,MALE,GENEL CERRAH? SERV?S?,47,1
+452,"{'Z41.2', 'L30.3'}",{'D'},Sedo Analjezi,Rutin ve dini sünnet,1,MALE,ÜROLOJ? SERV?S?,15,5
+3538,{'H25.1'},{'C'},Sedo Analjezi,Senil nükleer katarakt,72,MALE,GÖZ HASTALIKLARI SERV?S?,49,6
+3670,"{nan, 'G59', 'F32.8', 'M51.1'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",69,FEMALE,NÖRO??RÜRJ? SERV?S?,42,12
+2988,{'L60.8'},{'E'},Rejyonel Sinir Blo?u,T?rnak distrofisi,12,FEMALE,ORTOPED? SERV?S?,17,11
+880,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",48,MALE,GENEL CERRAH? SERV?S?,5,4
+1353,"{nan, 'K40'}",{'B'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",24,MALE,GENEL CERRAH? SERV?S?,43,14
+2755,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,42,FEMALE,KVC SERV?S?,25,2
+2712,{'Z41.2'},{'D'},Sedo Analjezi,"Sünnet derisinin fazlal???, fimozis ve parafimozis",5,MALE,ÜROLOJ? SERV?S?,31,14
+1818,"{nan, 'M25.5'}","{'B', 'C'}",Spinal Anestezi,Eklem a?r?s?,68,FEMALE,ORTOPED? SERV?S?,32,12
+2093,"{'R31', 'N31.9'}",{'D'},Spinal Anestezi,"Mesanenin nöromusküler disfonksiyonu, tan?mlanmam??",59,FEMALE,ÜROLOJ? SERV?S?,26,2
+2530,{'K40.3'},"{'D', 'C'}",Sedo Analjezi,"Bilateral inguinal herni, gangrenli",57,MALE,GENEL CERRAH? SERV?S?,5,6
+1814,{'I83'},"{0, 'E'}",Sedo Analjezi,"Alt ekstremitenin variköz venleri, ülserli",34,FEMALE,KVC SERV?S?,46,13
+2659,"{'M79.1', 'K29.1', 'L30', 'K80.8'}",{'B'},Genel Anestezi,"Kolelitiazis, di?er",50,MALE,GENEL CERRAH? SERV?S?,29,4
+611,"{nan, 'S46.0'}",{'C'},Genel Anestezi,"Artroz, tan?mlanmam??, omuz bölgesi",45,FEMALE,ORTOPED? SERV?S?,23,9
+247,"{'K21.9', 'M19.9', 'I86.1', 'J15.9'}",{'C'},Spinal Anestezi,Varikosel,27,MALE,ÜROLOJ? SERV?S?,15,2
+187,"{nan, 'K40.3'}","{'B', 'C'}",Genel Anestezi,?nguinal herni,62,MALE,GENEL CERRAH? SERV?S?,5,10
+1965,{'I83'},"{0, 'E'}",Sedo Analjezi,Alt ekstremitenin variköz venleri,39,FEMALE,KVC SERV?S?,25,11
+2289,{'K40'},{'B'},Spinal Anestezi,?nguinal herni,46,MALE,GENEL CERRAH? SERV?S?,43,13
+2191,{'N20.1'},{'B'},Spinal Anestezi,Böbrek ta??,47,FEMALE,ÜROLOJ? SERV?S?,31,6
+2136,{'L05.9'},{'C'},Sedo Analjezi,"Pilonidal kist, apsesiz",22,MALE,GENEL CERRAH? SERV?S?,36,4
+382,"{nan, 'M51.1'}","{0, 'B'}",Genel Anestezi,,40,FEMALE,ORTOPED? SERV?S?,42,3
+1734,{'M95.0'},"{'D', 'C'}",Genel Anestezi,Burnun kazan?lm?? deformitesi,48,FEMALE,PLAST?K CERRAH?,39,11
+543,"{'L05.0', 'Z00.8'}",{'C'},Spinal Anestezi,,23,MALE,GENEL CERRAH? SERV?S?,43,11
+2986,"{'Z41.1', 'Z00.0'}",{0},Genel Anestezi,Kabul edilebilir olmayan kozmetik görünüm için di?er plastik cerrahiler,45,FEMALE,PLAST?K CERRAH?,39,12
+3335,{'R22'},{'D'},Lokal Anestezi,"Derinin ve subkutanöz dokunun lokalize ?i?me, kitle ve yumrusu ",23,MALE,PLAST?K CERRAH?,28,12
+2030,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,36,MALE,KVC SERV?S?,25,13
+928,{'H26'},{'C'},Sedo Analjezi,"Kataraktlar, di?er",69,FEMALE,GÖZ HASTALIKLARI SERV?S?,49,1
+1581,"{'K21.9', 'K80', 'K30'}",{'B'},Genel Anestezi,,49,FEMALE,GENEL CERRAH? SERV?S?,33,4
+2909,"{nan, 'K43.9'}","{'B', 'C'}",Genel Anestezi,"Ventral herni, obstrüksiyon ve gangrensiz",66,FEMALE,GENEL CERRAH? SERV?S?,36,14
+1899,"{'K80.8', 'Z00.8'}",{'B'},Genel Anestezi,"Kolelitiazis, di?er",63,FEMALE,GENEL CERRAH? SERV?S?,47,13
+2003,{'M51.8'},{0},Lokal Anestezi,,43,FEMALE,ORTOPED? SERV?S?,21,12
+1634,"{nan, 'K40.3'}","{'B', 'C'}",Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",59,MALE,GENEL CERRAH? SERV?S?,5,4
+3067,{'N20.1'},"{'D', 'B'}",Genel Anestezi,,58,MALE,ÜROLOJ? SERV?S?,27,15
+3318,"{'N43.4', 'N43.0'}",{'C'},Spinal Anestezi,Ankiste hidrosel,52,MALE,ÜROLOJ? SERV?S?,15,11
+2705,"{'I83', 'I83.9'}","{0, 'E'}",Sedo Analjezi,Alt ekstremitenin variköz venleri,71,MALE,KVC SERV?S?,25,11
+2721,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,47,FEMALE,KVC SERV?S?,46,11
+3206,"{'K60.3', 'R22.2'}",{'C'},Sedo Analjezi,Anal fissür tan?mlanmam??,22,FEMALE,GENEL CERRAH? SERV?S?,36,2
+1743,{'M50.1'},{'A3'},Genel Anestezi,"Servikal disk bozukluklar?, radikülopati ile",56,FEMALE,ORTOPED? SERV?S?,42,13
+834,{'K80.8'},"{0, 'B'}",Genel Anestezi,"Kolelitiazis, di?er",45,FEMALE,GENEL CERRAH? SERV?S?,5,9
+3269,"{'L60.3', 'L03.8'}",{'E'},Lokal Anestezi,T?rnak distrofisi,26,MALE,ORTOPED? SERV?S?,17,11
+3059,{'K42.9'},{'C'},Genel Anestezi,Umbilikal herni,30,FEMALE,GENEL CERRAH? SERV?S?,47,2
+1350,{'L05'},{'C'},Spinal Anestezi,Pilonidal kist,17,MALE,GENEL CERRAH? SERV?S?,43,14
+332,{'L60.9'},{'E'},Sedo Analjezi,T?rnak distrofisi,12,MALE,ORTOPED? SERV?S?,17,7
+1827,{'L05'},{'C'},Spinal Anestezi,Pilonidal kist,32,MALE,GENEL CERRAH? SERV?S?,43,12
+1643,{'K42.9'},{'C'},Genel Anestezi,Umbilikal herni,48,FEMALE,GENEL CERRAH? SERV?S?,47,11
+968,"{'M19.9', 'K21.9', 'L30.3', 'I86.1'}",{'C'},Spinal Anestezi,,25,MALE,ÜROLOJ? SERV?S?,15,2
+3349,{'N21.0'},{'B'},Spinal Anestezi,"Renal kolik, tan?mlanmam??",28,MALE,ÜROLOJ? SERV?S?,27,6
+302,"{nan, 'Z00.8', 'M51.8'}","{0, 'B'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",41,FEMALE,ORTOPED? SERV?S?,21,10
+3472,{'K40.3'},{'B'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",52,MALE,GENEL CERRAH? SERV?S?,43,6
+1491,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,48,MALE,KVC SERV?S?,46,12
+1582,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",58,FEMALE,GENEL CERRAH? SERV?S?,36,2
+3370,{'I83.9'},"{0, 'E'}",Lokal Anestezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,44,FEMALE,KVC SERV?S?,46,4
+161,{'L05.9'},{'C'},Sedo Analjezi,Pilonidal kist,23,MALE,GENEL CERRAH? SERV?S?,36,4
+2106,{'M51.1'},{'A3'},Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",51,FEMALE,ORTOPED? SERV?S?,42,12
+2871,{'M25.8'},{'C'},Sedo Analjezi,Eklem a?r?s?,69,FEMALE,ORTOPED? SERV?S?,40,6
+678,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,39,MALE,KVC SERV?S?,46,9
+2213,"{nan, 'K40'}",{'B'},Spinal Anestezi,"Bilateral inguinal herni, gangrenli",53,MALE,GENEL CERRAH? SERV?S?,5,12
+1121,{'N40'},{'B'},Spinal Anestezi,Benign prostat hiperplazisi,75,MALE,ÜROLOJ? SERV?S?,31,14
+1325,{'N21.1'},"{0, 'B'}",Sedo Analjezi,Üretra ta??,38,MALE,ÜROLOJ? SERV?S?,31,14
+1557,{'I83'},"{'E', 'C'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,59,MALE,KVC SERV?S?,25,13
+1094,"{nan, 'K46.9'}","{'B', 'C'}",Spinal Anestezi,"Abdominal herni, obstrüksiyon ve gangrensiz tan?mlanmam??",66,MALE,GENEL CERRAH? SERV?S?,5,3
+3199,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,55,MALE,KVC SERV?S?,46,4
+1687,"{nan, 'K40.3'}",{'B'},Spinal Anestezi,"Tek tarafl? veya tan?mlanmam?? inguinal herni, obstrüksiyonlu,gangrensiz",57,MALE,GENEL CERRAH? SERV?S?,5,6
+3,"{'R22.2', 'R10.4', 'K35.9'}","{'B', 'C'}",Genel Anestezi,"Gövdenin lokalize ?i?me, kitle ve yumrusu",24,FEMALE,GENEL CERRAH? SERV?S?,35,3
+1833,{'K40.2'},{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",47,MALE,GENEL CERRAH? SERV?S?,47,12
+162,{'L05.9'},{'C'},Sedo Analjezi,"Pilonidal kist, apsesiz",25,MALE,GENEL CERRAH? SERV?S?,36,3
+1543,{'L05.9'},{'C'},Sedo Analjezi,"Lokalize ?i?me kitle ve yumrusu, tan?mlanmam??",18,FEMALE,GENEL CERRAH? SERV?S?,36,12
+595,{'K82.9'},{'B'},Genel Anestezi,"Safra kesesi hastal???, tan?mlanmam??",48,FEMALE,GENEL CERRAH? SERV?S?,33,4
+1701,"{'K42.0', 'K43.0'}",{'C'},Genel Anestezi,"Umbilikal herni, obstrüksiyonsuz, gangrenli",55,MALE,GENEL CERRAH? SERV?S?,36,6
+1691,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,41,FEMALE,KVC SERV?S?,46,4
+2667,"{'K21', 'M23', 'I87.2'}",{'C'},Spinal Anestezi,Eklem a?r?s?,44,MALE,ORTOPED? SERV?S?,32,12
+3148,{'K80.8'},"{'B', 'C'}",Genel Anestezi,"Kolelitiazis, di?er",47,MALE,GENEL CERRAH? SERV?S?,36,11
+1627,{'R22'},{'D'},Genel Anestezi,,36,MALE,PLAST?K CERRAH?,39,13
+177,{'L05'},{'C'},Sedo Analjezi,Pilonidal kist,22,MALE,GENEL CERRAH? SERV?S?,36,5
+1311,{'S82.2'},{'B'},Genel Anestezi,Tibia ?aft k?r???,7,MALE,ORTOPED? SERV?S?,10,10
+1602,{'N40'},{'B'},Spinal Anestezi,Benign prostat hiperplazisi,66,MALE,ÜROLOJ? SERV?S?,31,12
+3532,{'H25.1'},{'C'},Rejyonel Sinir Blo?u,Senil nükleer katarakt,66,MALE,GÖZ HASTALIKLARI SERV?S?,49,6
+913,{'K60.1'},"{'D', 'C'}",Sedo Analjezi,Anal fissür tan?mlanmam??,27,MALE,GENEL CERRAH? SERV?S?,47,12
+3188,"{'L30.8', 'M79.1', 'K40.9'}",{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",52,MALE,GENEL CERRAH? SERV?S?,29,16
+2478,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",56,FEMALE,GENEL CERRAH? SERV?S?,36,13
+2461,"{nan, 'A63.0'}","{0, 'B'}",Sedo Analjezi,Anogenital (veneryal) Si?iller,59,MALE,GENEL CERRAH? SERV?S?,36,13
+3197,{'K82.9'},{'B'},Genel Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",30,FEMALE,GENEL CERRAH? SERV?S?,36,2
+586,{'S72.4'},{'B'},Genel Anestezi,Femur alt uç k?r???,61,MALE,ORTOPED? SERV?S?,23,10
+384,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,63,FEMALE,GENEL KARMA CERRAH? SERV?S?,25,4
+3551,{'N92.1'},{0},Sedo Analjezi,"A??r? ve s?k menstrüasyon, düzensiz siklus ile",57,FEMALE,KADIN DO?UM SERV?S?,48,14
+1181,{'N43.2'},{'C'},Spinal Anestezi,"Hidrosel, di?er",66,MALE,ÜROLOJ? SERV?S?,31,4
+2294,{'I83.9'},"{0, 'E'}",Genel Anestezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,36,FEMALE,KVC SERV?S?,25,11
+1420,"{'I83', nan}","{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,33,FEMALE,GENEL KARMA CERRAH? SERV?S?,8,1
+2445,{'K80.1'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",60,MALE,GENEL CERRAH? SERV?S?,5,4
+3702,{'M65.3'},{'D'},Sedo Analjezi,Tetik parmak,74,FEMALE,ORTOPED? SERV?S?,32,14
+3107,"{'N20.2', 'M19.9', 'J15.9'}",{'B'},Genel Anestezi,Böbrek ta??,37,MALE,ÜROLOJ? SERV?S?,15,11
+851,{'K40'},{'C'},Spinal Anestezi,"Bilateral inguinal herni; obstrüksiyonlu, gangrensiz | Tek tarafl? veya tan?mlanmam?? inguinal herni, gangrenli",33,MALE,GENEL CERRAH? SERV?S?,5,7
+839,{'K40'},{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",66,MALE,GENEL CERRAH? SERV?S?,5,9
+2855,{'K80.8'},{'B'},Epidural ve Genel Anestezi,"Kolelitiazis, di?er",63,MALE,GENEL CERRAH? SERV?S?,36,6
+3713,"{nan, 'J30.2'}","{0, 'E', 'B', 'C'}",Genel Anestezi,"Mevsimsel allerjik rinit, di?er",57,FEMALE,KBB SERV?S?,6,6
+2413,{'M25.8'},{'B'},Spinal Anestezi,Di?er tan?mlanm?? eklem bozukluklar?,67,FEMALE,ORTOPED? SERV?S?,40,2
+3170,{'H25.1'},{'C'},Sedo Analjezi,Senil nükleer katarakt,67,MALE,GÖZ HASTALIKLARI SERV?S?,49,16
+1148,"{nan, 'I83.0'}","{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,57,MALE,KVC SERV?S?,8,13
+3185,"{'L30.8', 'M79.1', 'K40.9'}",{'C'},Sedo Analjezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",42,MALE,GENEL CERRAH? SERV?S?,29,2
+211,{'C60.0'},"{0, 'D'}",Sedo Analjezi,"Sünnet derisinin fazlal???, fimozis ve parafimozis",5,MALE,ÜROLOJ? SERV?S?,11,11
+3701,"{nan, 'J34.2'}","{0, 'E', 'B'}",Genel Anestezi,Nazal septum deviasyonu,23,FEMALE,KBB SERV?S?,41,14
+2357,{'H25.1'},{'C'},Sedo Analjezi,Senil nükleer katarakt,65,MALE,GÖZ HASTALIKLARI SERV?S?,49,6
+2468,{'H25.1'},{'C'},Sedo Analjezi,Senil nükleer katarakt,66,FEMALE,GÖZ HASTALIKLARI SERV?S?,49,14
+3368,"{nan, 'S82.9'}","{'D', 'B'}",Spinal Anestezi,"Bald?r?n k?r???, yer tan?mlanmam??",39,MALE,ORTOPED? SERV?S?,23,2
+2313,{'N20.0'},"{'D', 'C'}",Sedo Analjezi,Böbrek ve üreter ta??,57,MALE,ÜROLOJ? SERV?S?,31,11
+2669,"{'M23.90', 'K21'}",{'C'},Spinal Anestezi,Eklem a?r?s?,31,MALE,ORTOPED? SERV?S?,32,12
+1340,"{nan, 'M51.1'}","{0, 'B'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",45,MALE,ORTOPED? SERV?S?,42,10
+2438,"{'K40.0', 'M79.1', 'L30.8'}",{'C'},Spinal Anestezi,"Bilateral inguinal herni, gangrenli",41,MALE,GENEL CERRAH? SERV?S?,29,11
+2826,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,50,FEMALE,KVC SERV?S?,46,12
+2071,"{nan, 'M25.5'}","{'B', 'C'}",Spinal Anestezi,Eklem a?r?s?,63,FEMALE,ORTOPED? SERV?S?,32,6
+2772,{'K40.9'},{'C'},Sedo Analjezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",47,MALE,GENEL CERRAH? SERV?S?,47,11
+775,{'K40'},{'B'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",38,MALE,GENEL CERRAH? SERV?S?,43,12
+1884,{'W22'},{'B'},Genel Anestezi,Cisimlere çarpma veya onlarla di?er çarp??ma,14,MALE,ORTOPED? SERV?S?,10,11
+1958,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,47,MALE,KVC SERV?S?,25,11
+1706,"{nan, 'R22'}",{'D'},Sedo Analjezi,Blefarospazm,32,FEMALE,PLAST?K CERRAH?,28,12
+2541,{'K40.9'},{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",31,MALE,GENEL CERRAH? SERV?S?,36,4
+3417,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,41,FEMALE,KVC SERV?S?,25,4
+1849,{'K60.3'},{'C'},Sedo Analjezi,Anal fistül,44,MALE,GENEL CERRAH? SERV?S?,36,14
+2072,"{nan, 'M51.1'}","{0, 'B'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",32,FEMALE,ORTOPED? SERV?S?,21,6
+1306,{'L05.0'},{'C'},Spinal Anestezi,Pilonidal kist,20,FEMALE,GENEL CERRAH? SERV?S?,5,13
+1666,"{nan, 'M51.1'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",45,FEMALE,ORTOPED? SERV?S?,42,6
+3584,{'K40'},{'C'},Spinal Anestezi,?nguinal herni,57,MALE,GENEL CERRAH? SERV?S?,47,4
+2537,{'K80.8'},{'B'},Genel Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",22,FEMALE,GENEL CERRAH? SERV?S?,36,4
+3074,"{'J30', 'J34.2', 'R07.0'}","{'D', 'B', 'C'}",Genel Anestezi,Nazal septum deviasyonu,19,FEMALE,KBB SERV?S?,18,15
+824,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",55,FEMALE,GENEL CERRAH? SERV?S?,33,13
+807,{'N40'},{'B'},Spinal Anestezi,,72,MALE,ÜROLOJ? SERV?S?,15,2
+2980,{'M25.5'},{'D'},Sedo Analjezi,,35,FEMALE,ORTOPED? SERV?S?,40,15
+698,{'K80.1'},{'B'},Genel Anestezi,,20,FEMALE,GENEL CERRAH? SERV?S?,33,6
+3257,{'I83.9'},"{0, 'E'}",Lokal Anestezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,51,FEMALE,KVC SERV?S?,25,4
+231,"{'I83', nan}","{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,49,FEMALE,GENEL KARMA CERRAH? SERV?S?,8,2
+1150,"{'I83', nan}","{0, 'E'}",Sedo Analjezi,Alt ekstremitenin variköz venleri,29,FEMALE,KVC SERV?S?,8,13
+208,{'M54.5'},"{0, 'B'}",Genel Anestezi,,18,FEMALE,ORTOPED? SERV?S?,21,10
+2892,{'I83.9'},"{0, 'E'}",Rejyonel Sinir Blo?u,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,43,FEMALE,KVC SERV?S?,46,14
+398,"{nan, 'M51.1'}","{0, 'B'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",29,MALE,ORTOPED? SERV?S?,42,4
+2791,{'K40'},{'C'},Spinal Anestezi,?nguinal herni,42,MALE,GENEL CERRAH? SERV?S?,36,6
+2359,"{nan, 'M51.1'}","{0, 'B'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",56,FEMALE,ORTOPED? SERV?S?,42,14
+640,"{nan, 'I86.2'}","{0, 'E'}",Sedo Analjezi,,37,FEMALE,KVC SERV?S?,8,13
+563,{'I83'},"{0, 'E'}",Sedo Analjezi,Alt ekstremitenin variköz venleri,53,MALE,KVC SERV?S?,46,6
+1785,"{nan, 'K40.3'}",{'B'},Genel Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",54,MALE,GENEL CERRAH? SERV?S?,5,13
+2008,"{nan, 'H02.9'}",{'D'},Epidural Anestezi,"Gövdenin lokalize ?i?me, kitle ve yumrusu",41,FEMALE,PLAST?K CERRAH?,28,2
+1161,"{nan, 'M51.1'}","{0, 'B'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",38,MALE,ORTOPED? SERV?S?,21,12
+3215,{'K42'},{'C'},Genel Anestezi,,43,MALE,GENEL CERRAH? SERV?S?,29,12
+2149,"{nan, 'M25.8'}","{'B', 'C'}",Genel Anestezi,Di?er tan?mlanm?? eklem bozukluklar?,34,MALE,ORTOPED? SERV?S?,40,6
+1022,{'L05'},{'C'},Spinal Anestezi,,23,MALE,GENEL CERRAH? SERV?S?,5,9
+3711,"{'M79.1', 'K80.8', 'L30'}",{'B'},Genel Anestezi,"Kolelitiazis, di?er",67,FEMALE,GENEL CERRAH? SERV?S?,29,6
+3237,"{'M19.9', 'K21.9', 'N51.1', 'L30.3'}",{'D'},Spinal Anestezi,"Testis ve epididimisin bozukluklar?, ba?ka yerde s?n?flanm?? hastal?klarda",45,MALE,ÜROLOJ? SERV?S?,15,2
+510,"{'I83', nan}","{0, 'E'}",Sedo Analjezi,"Alt ekstremitenin variköz venleri, enflamasyonla birlikte",42,FEMALE,KVC SERV?S?,8,6
+1718,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,45,MALE,KVC SERV?S?,25,13
+854,{'K80.8'},"{'B', 'C'}",Genel Anestezi,"Kolelitiazis, di?er",48,FEMALE,GENEL CERRAH? SERV?S?,36,10
+2617,{'K80.1'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",37,FEMALE,GENEL CERRAH? SERV?S?,5,4
+1851,{'L05'},{'C'},Sedo Analjezi,Pilonidal kist,22,MALE,GENEL CERRAH? SERV?S?,36,14
+3174,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,42,MALE,KVC SERV?S?,25,15
+1929,{'M95.0'},"{'D', 'C'}",Genel Anestezi,Burnun kazan?lm?? deformitesi,24,MALE,PLAST?K CERRAH?,39,13
+500,"{'I83', nan}","{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,52,MALE,KVC SERV?S?,8,11
+667,"{'K21.9', 'M19.9', 'J15.9', 'A63.0'}",{0},Sedo Analjezi,,51,MALE,ÜROLOJ? SERV?S?,15,14
+3152,{'M95.0'},"{'D', 'C'}",Genel Anestezi,Burnun kazan?lm?? deformitesi,20,FEMALE,PLAST?K CERRAH?,39,2
+1918,{'N76'},{'D'},Genel Anestezi,Vajen ve vulvan?n di?er enflamasyonu,37,FEMALE,KADIN DO?UM SERV?S?,4,12
+1799,{'S82.60'},{'B'},Spinal Anestezi,"Lateral malleol k?r???, kapal?",45,FEMALE,ORTOPED? SERV?S?,22,2
+1119,{'N40'},{'B'},Spinal Anestezi,Benign prostat hiperplazisi,62,MALE,ÜROLOJ? SERV?S?,31,14
+1444,{'N20.1'},{'B'},Spinal Anestezi,Üreter ta??,63,MALE,ÜROLOJ? SERV?S?,31,4
+2197,"{'M51.1', nan, 'M48.0', 'M43.1'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",41,MALE,ORTOPED? SERV?S?,21,13
+3181,{'J34.2'},"{'D', 'B', 'C'}",Genel Anestezi,Nazal septum deviasyonu,32,MALE,KBB SERV?S?,18,15
+3398,"{nan, 'M25.8'}","{'B', 'C'}",Spinal Anestezi,Di?er tan?mlanm?? eklem bozukluklar?,45,MALE,ORTOPED? SERV?S?,40,14
+3718,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",46,FEMALE,GENEL CERRAH? SERV?S?,43,14
+2036,"{nan, 'H02.8'}",{'D'},Sedo Analjezi,Göz kapa??n?n di?er tan?mlanm?? bozukluklar?,58,MALE,GÖZ HASTALIKLARI SERV?S?,49,13
+3047,{'H25.1'},{'C'},Sedo Analjezi,,44,MALE,GÖZ HASTALIKLARI SERV?S?,49,11
+1365,{'N31.9'},{'D'},Spinal Anestezi,"Mesanenin nöromusküler disfonksiyonu, tan?mlanmam??",44,FEMALE,ÜROLOJ? SERV?S?,26,3
+857,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",48,FEMALE,GENEL CERRAH? SERV?S?,36,10
+1034,"{nan, 'I83.9'}","{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,38,FEMALE,KVC SERV?S?,8,13
+1063,"{nan, 'K21.0', 'I87.2', 'M17'}","{'B', 'C'}",Spinal Anestezi,Gonartroz [diz ekleminin artrozu],61,FEMALE,ORTOPED? SERV?S?,32,6
+2916,{'K40'},{'B'},Genel Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",54,MALE,GENEL CERRAH? SERV?S?,43,2
+715,{'I83'},"{0, 'E'}",Sedo Analjezi,,61,FEMALE,KVC SERV?S?,46,14
+714,"{nan, 'K40.9'}",{'B'},Spinal Anestezi,"Tek tarafl? veya tan?mlanmam?? inguinal herni, gangrensiz veya obstrüksiyonsuz ",45,MALE,GENEL CERRAH? SERV?S?,5,13
+1512,{'W01'},"{'B', 'C'}",Spinal Anestezi,"Kayma, sendeleme ve tökezlemeye ba?l? dü?me",29,MALE,ORTOPED? SERV?S?,10,13
+3698,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,52,FEMALE,KVC SERV?S?,46,12
+1227,"{nan, 'K40.1'}","{'D', 'B'}",Spinal Anestezi,"Bilateral inguinal herni, gangrenli",44,MALE,GENEL CERRAH? SERV?S?,5,12
+1136,{'N47'},"{0, 'D'}",Sedo Analjezi,"Sünnet derisinin fazlal???, fimozis ve parafimozis",1,MALE,ÜROLOJ? SERV?S?,11,3
+641,{'J34.2'},{'B'},Genel Anestezi,,18,FEMALE,KBB SERV?S?,45,4
+2576,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",60,FEMALE,GENEL CERRAH? SERV?S?,47,13
+196,"{'K40.2', 'I10', 'N43.2'}","{'B', 'C'}",Genel Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz | Hidrosel, di?er",69,MALE,GENEL CERRAH? SERV?S?,35,10
+2571,"{'J35.2', 'H65.2'}","{'D', 'C'}",Genel Anestezi,,4,MALE,KBB SERV?S?,6,2
+3219,{'N43.2'},{'C'},Spinal Anestezi,"Hidrosel, di?er",68,MALE,ÜROLOJ? SERV?S?,26,2
+1336,{'K80.0'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",51,FEMALE,GENEL CERRAH? SERV?S?,5,14
+3431,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,47,FEMALE,KVC SERV?S?,46,6
+524,"{'K60.3', 'I84.1'}","{'D', 'C'}",Spinal Anestezi,,38,MALE,GENEL CERRAH? SERV?S?,35,3
+1819,{'K40.9'},{'C'},Spinal Anestezi,?nguinal herni,49,MALE,GENEL CERRAH? SERV?S?,36,2
+1407,"{nan, 'K40'}",{'B'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",72,MALE,GENEL CERRAH? SERV?S?,5,9
+3081,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",54,FEMALE,GENEL CERRAH? SERV?S?,36,12
+604,{'S82.10'},{'B'},Genel Anestezi,"Tibia üst uç k?r???, kapal?",8,FEMALE,ORTOPED? SERV?S?,23,9
+520,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,45,MALE,KVC SERV?S?,25,10
+2589,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,56,MALE,KVC SERV?S?,25,11
+1685,"{nan, 'K40.3'}",{'B'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",57,MALE,GENEL CERRAH? SERV?S?,5,6
+3582,{'N40'},{'B'},Spinal Anestezi,Böbrek ta??,61,MALE,ÜROLOJ? SERV?S?,26,11
+1700,{'K40.2'},{'B'},Genel Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",41,MALE,GENEL CERRAH? SERV?S?,36,6
+2222,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,44,FEMALE,ORTOPED? SERV?S?,46,14
+1092,"{nan, 'I83.1'}","{0, 'E'}",Sedo Analjezi,"Alt ekstremitenin variköz venleri, enflamasyonla birlikte",49,FEMALE,KVC SERV?S?,8,2
+1162,{'K60.1'},"{'D', 'C'}",Spinal Anestezi,Anal fissür tan?mlanmam??,42,FEMALE,GENEL CERRAH? SERV?S?,33,14
+298,{'L05.9'},{'C'},Spinal Anestezi,"Pilonidal kist, apsesiz",18,FEMALE,GENEL CERRAH? SERV?S?,5,2
+3100,"{'Z41.2', 'L30.3'}",{'D'},Sedo Analjezi,Rutin ve dini sünnet,10,MALE,ÜROLOJ? SERV?S?,15,11
+2120,"{nan, 'K42.0'}","{'B', 'C'}",Genel Anestezi,"Kolelitiazis, di?er",41,MALE,GENEL CERRAH? SERV?S?,5,14
+2447,{'N64.2'},{'B'},Genel Anestezi,Memenin atrofisi,25,FEMALE,PLAST?K CERRAH?,39,6
+1495,{'K40.4'},{'C'},Spinal Anestezi,"Tek tarafl? veya tan?mlanmam?? inguinal herni, gangrenli",47,MALE,GENEL CERRAH? SERV?S?,36,12
+2866,{'K40.9'},"{'D', 'B'}",Rejyonel Sinir Blo?u,"Tek tarafl? veya tan?mlanmam?? inguinal herni, gangrensiz veya obstrüksiyonsuz ",39,MALE,GENEL CERRAH? SERV?S?,5,14
+1997,{'M51.8'},{0},Lokal Anestezi,,50,FEMALE,ORTOPED? SERV?S?,21,12
+2457,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",37,MALE,GENEL CERRAH? SERV?S?,36,13
+1606,{'K80.8'},{'B'},Genel Anestezi,"Umbilikal herni; obstrüksiyonlu, gangrensiz",46,FEMALE,GENEL CERRAH? SERV?S?,36,11
+1437,{'H25.1'},{'C'},Sedo Analjezi,Senil nükleer katarakt,72,FEMALE,GÖZ HASTALIKLARI SERV?S?,49,14
+1187,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",59,MALE,GENEL CERRAH? SERV?S?,47,6
+2286,"{nan, 'M51.1'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",46,MALE,ORTOPED? SERV?S?,21,11
+1184,{'K80.8'},{'B'},Genel Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",30,FEMALE,GENEL CERRAH? SERV?S?,47,6
+1575,"{'I83', nan}","{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,71,MALE,KVC SERV?S?,8,9
+624,{'T85.4'},{'B'},Genel Anestezi,Meme protez ve implant?n?n mekanik komplikasyonu,40,FEMALE,PLAST?K CERRAH?,39,9
+2332,"{nan, 'J34.2'}","{0, 'E', 'C'}",Genel Anestezi,,37,MALE,KBB SERV?S?,6,13
+1809,{'K40'},{'C'},Spinal Anestezi,Pilonidal kist,38,MALE,GENEL CERRAH? SERV?S?,43,13
+136,"{'I83', nan}","{0, 'E'}",Genel Anestezi,,32,FEMALE,GENEL KARMA CERRAH? SERV?S?,8,2
+1546,"{'N31.8', 'N20.1'}","{'D', 'B'}",Sedo Analjezi,Üreter ta??,55,MALE,ÜROLOJ? SERV?S?,26,2
+2539,"{'N40', 'N35'}","{'B', 'C'}",Spinal Anestezi,Benign prostat hiperplazisi,61,MALE,ÜROLOJ? SERV?S?,31,2
+1400,{'W19'},{'B'},Spinal Anestezi,"Dü?me, tan?mlanmam??",89,MALE,ORTOPED? SERV?S?,40,13
+605,"{'N20.0', 'Z00.8'}",{'B'},Spinal Anestezi,Böbrek ta??,38,MALE,ÜROLOJ? SERV?S?,11,1
+3439,{'M17.9'},{'C'},Genel Anestezi,"Gonartroz, tan?mlanmam??",24,MALE,ORTOPED? SERV?S?,40,12
+3669,{'N20.0'},"{'B', 'C'}",Genel Anestezi,Böbrek ta??,54,FEMALE,ÜROLOJ? SERV?S?,27,14
+1964,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,36,MALE,KVC SERV?S?,25,11
+2824,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,48,FEMALE,KVC SERV?S?,46,12
+2534,"{nan, 'M50.9', 'M51.1'}","{0, 'B'}",Genel Anestezi,"Servikal disk bozuklu?u, tan?mlanmam??",28,FEMALE,NÖRO??RÜRJ? SERV?S?,21,13
+1751,{'M95.0'},"{'D', 'C'}",Genel Anestezi,Burnun kazan?lm?? deformitesi,28,FEMALE,PLAST?K CERRAH?,39,12
+508,{'Z41.2'},{'D'},Sedo Analjezi,,3,MALE,ÜROLOJ? SERV?S?,15,9
+2079,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,45,MALE,KVC SERV?S?,25,6
+1447,"{'I80.3', 'N40', 'I15'}","{0, 'B'}",Spinal Anestezi,Benign prostat hiperplazisi,67,MALE,ÜROLOJ? SERV?S?,31,4
+2681,{'S93.1'},{'D'},Genel Anestezi,Ayak parma??n?n di?er k?r?klar?,43,FEMALE,ORTOPED? SERV?S?,10,14
+677,"{'S82.60', 'Y28'}","{'B', 'C'}",Spinal Anestezi,"Keskin cisimle temas, gerçekle?me ?ekli belirlenmemi?",42,MALE,ORTOPED? SERV?S?,10,12
+2069,"{nan, 'K42.0', 'K46.9'}","{'D', 'C'}",Genel Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",68,FEMALE,GENEL CERRAH? SERV?S?,47,14
+647,{'S46.0'},{'C'},Genel Anestezi,"Artroz, tan?mlanmam??, omuz bölgesi",57,FEMALE,ORTOPED? SERV?S?,23,13
+3429,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,52,FEMALE,KVC SERV?S?,46,6
+1865,"{nan, 'K42.0'}","{'B', 'C'}",Genel Anestezi,"Umbilikal herni, gangrenli",28,FEMALE,GENEL CERRAH? SERV?S?,5,4
+3609,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,53,FEMALE,KVC SERV?S?,25,14
+1890,{'N43.2'},{'C'},Spinal Anestezi,"Hidrosel, di?er",42,MALE,ÜROLOJ? SERV?S?,31,11
+1266,{'M95.0'},"{'D', 'C'}",Genel Anestezi,Burnun kazan?lm?? deformitesi,30,FEMALE,PLAST?K CERRAH?,39,9
+1139,{'N47'},"{0, 'D'}",Sedo Analjezi,"Sünnet derisinin fazlal???, fimozis ve parafimozis",4,MALE,ÜROLOJ? SERV?S?,11,3
+2596,{'H25.1'},{'C'},Sedo Analjezi,senil nükleer katarakt,56,MALE,GÖZ HASTALIKLARI SERV?S?,49,4
+1389,{'N60'},{'B'},Sedo Analjezi,,28,FEMALE,PLAST?K CERRAH?,39,10
+2073,"{nan, 'K21.0', 'M17.9', 'I87.2'}","{'B', 'C'}",Spinal Anestezi,Eklem a?r?s?,56,FEMALE,ORTOPED? SERV?S?,32,6
+422,"{'I83', nan}","{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,50,FEMALE,KVC SERV?S?,8,13
+2741,{'S52.70'},"{'B', 'C'}",Genel Anestezi,"Ön kol birden fazla k?r?klar?, kapal?",13,MALE,ORTOPED? SERV?S?,22,11
+3386,"{nan, 'J34.2'}","{0, 'E', 'B', 'C'}",Genel Anestezi,Nazal septum deviasyonu,20,FEMALE,KBB SERV?S?,6,14
+1717,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,64,FEMALE,KVC SERV?S?,25,13
+2577,{'N20.2'},{'B'},Genel Anestezi,"Böbrek ta??, üreter ta?? ile birlikte",54,MALE,ÜROLOJ? SERV?S?,26,4
+1917,{'N92.5'},{'D'},Genel Anestezi,"Düzensiz menstrüasyon, di?er tan?mlanm??",38,FEMALE,KADIN DO?UM SERV?S?,4,12
+3560,"{'L30.8', 'M79.1', 'K42'}",{'C'},Genel Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",37,FEMALE,GENEL CERRAH? SERV?S?,47,12
+3351,"{nan, 'K21.0', 'S83.5'}","{'B', 'C'}",Spinal Anestezi,Eklem a?r?s?,37,MALE,ORTOPED? SERV?S?,32,12
+1459,{'K42'},{'C'},Genel Anestezi,Umbilikal herni,33,MALE,GENEL CERRAH? SERV?S?,33,13
+944,{'K40.2'},{'B'},Genel Anestezi,,64,MALE,GENEL CERRAH? SERV?S?,34,10
+3137,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,47,FEMALE,KVC SERV?S?,46,2
+675,{'I83'},"{0, 'E'}",Sedo Analjezi,"Alt ekstremitenin variköz venleri, ülserli",56,MALE,KVC SERV?S?,25,7
+1647,{'K40.9'},{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",55,MALE,GENEL CERRAH? SERV?S?,47,2
+1129,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,50,FEMALE,KVC SERV?S?,46,9
+1756,{'K40.9'},{'C'},Genel Anestezi,"Bilateral inguinal herni; obstrüksiyonlu, gangrensiz",58,MALE,GENEL CERRAH? SERV?S?,47,2
+2431,"{'L30.8', 'M79.1', 'K40.9'}",{'C'},Spinal Anestezi,"Tek tarafl? veya tan?mlanmam?? inguinal herni, gangrensiz veya obstrüksiyonsuz ",41,MALE,GENEL CERRAH? SERV?S?,29,4
+2528,"{'K40', 'N43.2'}","{'D', 'B', 'C'}",Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",52,MALE,GENEL CERRAH? SERV?S?,5,6
+3350,{'I83.9'},"{0, 'E'}",Lokal Anestezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,70,FEMALE,KVC SERV?S?,25,2
+772,"{nan, 'M51.1'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",39,MALE,ORTOPED? SERV?S?,21,13
+2007,{'M51.8'},{0},Lokal Anestezi,,41,MALE,ORTOPED? SERV?S?,21,12
+180,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",38,FEMALE,GENEL CERRAH? SERV?S?,36,1
+2637,{'K80.8'},{'B'},Genel Anestezi,,49,MALE,GENEL CERRAH? SERV?S?,36,6
+2297,{'K80.1'},{'B'},Genel Anestezi,"Safra kesesi ta??, akut kolesistit ile",44,FEMALE,GENEL CERRAH? SERV?S?,5,14
+2486,{'S52.5'},"{'B', 'C'}",Genel Anestezi,Radius alt uç k?r???,12,MALE,ORTOPED? SERV?S?,10,12
+1630,{'K80.1'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",52,FEMALE,GENEL CERRAH? SERV?S?,5,4
+2812,{'N20.1'},"{'D', 'B', 'C'}",Spinal Anestezi,Üreter ta??,39,MALE,ÜROLOJ? SERV?S?,27,11
+3623,"{'L30.8', 'M79.1', 'K29.1', 'K40'}",{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",41,MALE,GENEL CERRAH? SERV?S?,29,12
+379,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,53,MALE,GENEL KARMA CERRAH? SERV?S?,25,4
+3401,{'Z30.2'},{'D'},Sedo Analjezi,K?s?rla?t?rma,38,FEMALE,KADIN DO?UM SERV?S?,16,11
+668,"{'N21.0', 'N30.9'}",{'B'},Genel Anestezi,,39,MALE,ÜROLOJ? SERV?S?,15,14
+443,{'K80'},{'B'},Genel Anestezi,Safra ta??,59,FEMALE,GENEL CERRAH? SERV?S?,33,5
+3693,{'K40'},{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",56,MALE,GENEL CERRAH? SERV?S?,47,4
+2795,{'M17.9'},"{'B', 'C'}",Sedo Analjezi,Eklem a?r?s?,67,FEMALE,ORTOPED? SERV?S?,10,6
+1682,{'M50.1'},{'A3'},Genel Anestezi,"?ntervertebral disk bozukluklar? di?er, tan?mlanmam??",36,MALE,ORTOPED? SERV?S?,42,6
+339,"{nan, 'J34'}","{0, 'D', 'B', 'C'}",Genel Anestezi,Burun ve nazal sinüslerin di?er bozukluklar?,19,MALE,KBB SERV?S?,37,7
+2353,{'K80.1'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",54,FEMALE,GENEL CERRAH? SERV?S?,5,11
+1396,{'K40.9'},{'B'},Genel Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",71,MALE,GENEL CERRAH? SERV?S?,33,10
+2470,"{nan, 'M51.1'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",70,MALE,NÖRO??RÜRJ? SERV?S?,42,4
+3263,{'I83.9'},"{0, 'E'}",Lokal Anestezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,43,FEMALE,KVC SERV?S?,25,4
+1369,{'L60.0'},{'E'},Lokal Anestezi,Ete do?ru büyüyen t?rnak,15,MALE,ORTOPED? SERV?S?,40,12
+3424,{'S62.80'},{'C'},Genel Anestezi,"El bile?i ve elin di?er ve tan?mlanmam?? k?s?mlar?n?n k?r???, kapal?",47,MALE,ORTOPED? SERV?S?,23,12
+1354,{'S82.6'},{'B'},Genel Anestezi,Patella k?r???,69,FEMALE,ORTOPED? SERV?S?,40,12
+786,{'K80.1'},{'B'},Genel Anestezi,"Safra kesesi ta??, akut kolesistit ile",22,FEMALE,GENEL CERRAH? SERV?S?,5,12
+3552,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,50,FEMALE,KVC SERV?S?,46,14
+2360,"{'I83.9', 'M51.8'}","{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,59,MALE,KVC SERV?S?,25,6
+1475,"{nan, 'M51.1', 'M43.1', 'M48.06', 'K29.1'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",67,FEMALE,ORTOPED? SERV?S?,42,13
+2968,"{nan, 'M51.8'}","{0, 'B'}",Genel Anestezi,"?ntervertebral disk bozukluklar? di?er, tan?mlanmam??",50,FEMALE,NÖRO??RÜRJ? SERV?S?,21,15
+1263,{'K80'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",32,FEMALE,GENEL CERRAH? SERV?S?,33,9
+253,{'H26'},{'C'},Sedo Analjezi,"Kataraktlar, di?er",57,MALE,GÖZ HASTALIKLARI SERV?S?,49,9
+2229,"{nan, 'M17.9'}","{'B', 'C'}",Spinal Anestezi,"Gonartroz, tan?mlanmam??",69,FEMALE,ORTOPED? SERV?S?,10,12
+2490,"{nan, 'M51.1', 'M43.1'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,"?ntervertebral disk bozukluklar? di?er, tan?mlanmam??",44,FEMALE,NÖRO??RÜRJ? SERV?S?,42,12
+323,{'K80.8'},{'B'},Genel Anestezi,,55,MALE,GENEL CERRAH? SERV?S?,47,1
+2684,"{nan, 'J34.2'}","{0, 'E', 'B'}",Genel Anestezi,,34,MALE,KBB SERV?S?,6,2
+3000,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,60,FEMALE,KVC SERV?S?,46,11
+330,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,36,MALE,GENEL KARMA CERRAH? SERV?S?,25,9
+1644,"{'I83', nan}","{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,30,MALE,KVC SERV?S?,8,2
+1112,{'H26.9'},{'C'},Sedo Analjezi,,59,MALE,GÖZ HASTALIKLARI SERV?S?,49,14
+3036,{'I83'},"{0, 'E'}",Sedo Analjezi,"Alt ekstremitenin variköz venleri, ülserli",60,FEMALE,KVC SERV?S?,25,14
+2834,{'K40.9'},{'B'},Spinal Anestezi,?nguinal herni,52,MALE,GENEL CERRAH? SERV?S?,5,12
+2665,"{'S82.6', 'Z00.8'}","{'B', 'C'}",Genel Anestezi,Eklem a?r?s?,41,FEMALE,ORTOPED? SERV?S?,10,6
+2699,{'I83'},"{0, 'E'}",Sedo Analjezi,Alt ekstremitenin variköz venleri,56,FEMALE,KVC SERV?S?,25,11
+2037,{'I86.1'},{'B'},Spinal Anestezi,Varikosel,47,MALE,ÜROLOJ? SERV?S?,31,13
+248,"{'K21.9', 'N30.9', 'J15.9', 'C67.0'}",{'C'},Genel Anestezi,"Mesane malign neoplazm?, tan?mlanmam??",55,MALE,ÜROLOJ? SERV?S?,15,2
+1992,{'H02.8'},{'C'},Sedo Analjezi,Göz kapa??n?n di?er tan?mlanm?? bozukluklar?,48,FEMALE,PLAST?K CERRAH?,39,14
+163,{'K60.1'},"{'D', 'C'}",Sedo Analjezi,"Anal fissür, kronik",56,MALE,GENEL CERRAH? SERV?S?,36,3
+435,{'E04.8'},"{'D', 'A3'}",Genel Anestezi,,26,FEMALE,GENEL CERRAH? SERV?S?,35,5
+3565,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,43,FEMALE,KVC SERV?S?,46,14
+2258,{'J34.2'},{'C'},Genel Anestezi,Nazal septum deviasyonu,23,FEMALE,KBB SERV?S?,18,12
+483,{'N40'},{'B'},Spinal Anestezi,Benign prostat hiperplazisi,58,MALE,ÜROLOJ? SERV?S?,11,5
+1381,{'R22.3'},{'B'},Genel Anestezi,"Derinin ve subkutanöz dokunun lokalize ?i?me, kitle ve yumrusu ",22,FEMALE,ORTOPED? SERV?S?,23,14
+1427,{'K40.9'},{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",43,MALE,GENEL CERRAH? SERV?S?,36,3
+1172,{'H25.1'},{'C'},Sedo Analjezi,,71,FEMALE,GÖZ HASTALIKLARI SERV?S?,49,2
+3363,"{nan, 'N92.1'}",{0},Sedo Analjezi,"A??r? ve s?k menstrüasyon, düzensiz siklus ile",50,FEMALE,KADIN DO?UM SERV?S?,48,4
+948,{'L05'},{'C'},Spinal Anestezi,,21,MALE,GENEL CERRAH? SERV?S?,43,2
+2282,{'K40.9'},{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",33,MALE,GENEL CERRAH? SERV?S?,36,4
+1950,{'K40.9'},{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",52,MALE,GENEL CERRAH? SERV?S?,36,11
+308,"{nan, 'M51.1'}","{0, 'B'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",39,MALE,ORTOPED? SERV?S?,42,9
+2051,{'L05'},{'C'},Spinal Anestezi,Pilonidal kist,27,MALE,GENEL CERRAH? SERV?S?,43,4
+377,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",39,FEMALE,GENEL CERRAH? SERV?S?,35,3
+3592,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",52,MALE,GENEL CERRAH? SERV?S?,43,12
+2914,{'R52.9'},{'B'},Spinal Anestezi,"A?r?, tan?mlanmam??",62,FEMALE,ORTOPED? SERV?S?,40,13
+1836,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,45,FEMALE,KVC SERV?S?,46,6
+2137,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",57,FEMALE,GENEL CERRAH? SERV?S?,36,4
+168,"{'J34.2', 'J30.3'}","{0, 'D', 'C'}",Genel Anestezi,Nazal septum deviasyonu,31,MALE,KBB SERV?S?,19,1
+961,"{'K42.1', nan}","{'B', 'C'}",Genel Anestezi,Umbilikal herni,61,MALE,GENEL CERRAH? SERV?S?,5,7
+3093,{'K40.3'},{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",59,MALE,GENEL CERRAH? SERV?S?,5,11
+2778,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,50,MALE,KVC SERV?S?,46,12
+390,"{nan, 'M51.1', 'M43.1', 'M48.06', 'I10'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,,53,FEMALE,ORTOPED? SERV?S?,42,12
+2500,{'K42.0'},{'C'},Genel Anestezi,"Umbilikal herni; obstrüksiyonlu, gangrensiz",51,MALE,GENEL CERRAH? SERV?S?,36,6
+2979,{'K40.2'},{'C'},Sedo Analjezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",39,MALE,GENEL CERRAH? SERV?S?,47,2
+607,{'L05.9'},{'C'},Sedo Analjezi,"Pilonidal kist, apseli",36,MALE,GENEL CERRAH? SERV?S?,36,12
+540,{'L05'},{'C'},Spinal Anestezi,,25,MALE,GENEL CERRAH? SERV?S?,43,7
+3589,{'K40'},"{'D', 'B'}",Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",41,MALE,GENEL CERRAH? SERV?S?,5,6
+2427,"{'H92.0', 'L30'}",{'E'},Sedo Analjezi,Otalji,59,MALE,KBB SERV?S?,18,14
+890,"{nan, 'K40.9'}","{'B', 'C'}",Spinal Anestezi,"Tek tarafl? veya tan?mlanmam?? inguinal herni, gangrensiz veya obstrüksiyonsuz ",43,MALE,GENEL CERRAH? SERV?S?,47,13
+1010,{'L05'},{'C'},Spinal Anestezi,Pilonidal kist,35,MALE,GENEL CERRAH? SERV?S?,43,3
+989,"{nan, 'K40.3'}",{'B'},Genel Anestezi,?nguinal herni,72,MALE,GENEL CERRAH? SERV?S?,43,14
+1914,"{nan, 'M17.1'}","{'B', 'C'}",Spinal Anestezi,"Primer gonartroz, di?er",70,MALE,ORTOPED? SERV?S?,10,14
+501,"{'K85.8', 'K29.1', 'K80.8'}",{'B'},Genel Anestezi,"Kolelitiazis, di?er",47,MALE,GENEL CERRAH? SERV?S?,36,12
+1001,{'M95.0'},{'C'},Genel Anestezi,Burnun kazan?lm?? deformitesi,26,MALE,PLAST?K CERRAH?,39,10
+2961,"{nan, 'J33.9'}","{0, 'E', 'B', 'C'}",Genel Anestezi,"Nazal polip, tan?mlanmam??",18,FEMALE,KBB SERV?S?,6,2
+1852,"{nan, 'M17.1'}","{'B', 'C'}",Genel Anestezi,"Primer gonartroz, di?er",69,MALE,ORTOPED? SERV?S?,10,4
+1702,"{'K80.8', 'I10', 'E13'}",{'B'},Genel Anestezi,"Kolelitiazis, di?er",60,FEMALE,GENEL CERRAH? SERV?S?,36,4
+2479,{'R31'},{'A3'},Genel Anestezi,"Hematüri, tan?mlanmam??",67,MALE,ÜROLOJ? SERV?S?,31,14
+2056,"{nan, 'M51.1'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,,57,MALE,ORTOPED? SERV?S?,42,14
+1130,{'N47'},"{0, 'D'}",Sedo Analjezi,"Sünnet derisinin fazlal???, fimozis ve parafimozis",4,MALE,ÜROLOJ? SERV?S?,11,3
+579,"{'D33.4', nan, 'M51.1', 'M48.0'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",50,FEMALE,ORTOPED? SERV?S?,21,6
+2995,{'N20.1'},"{'D', 'B', 'C'}",Genel Anestezi,,29,MALE,ÜROLOJ? SERV?S?,31,15
+2512,"{nan, 'K21', 'M17.9', 'I87.2'}","{'B', 'C'}",Spinal Anestezi,"Gonartroz, tan?mlanmam??",67,FEMALE,ORTOPED? SERV?S?,32,6
+2215,"{nan, 'K40'}","{'B', 'C'}",Spinal Anestezi,"Bilateral inguinal herni, gangrenli",56,MALE,GENEL CERRAH? SERV?S?,5,12
+3585,{'K42'},"{'D', 'C'}",Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",30,FEMALE,GENEL CERRAH? SERV?S?,5,14
+2450,{'K80.1'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",53,FEMALE,GENEL CERRAH? SERV?S?,5,4
+3234,"{'Z41.2', 'L30.3'}",{'D'},Sedo Analjezi,Rutin ve dini sünnet,6,MALE,ÜROLOJ? SERV?S?,15,2
+735,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",23,FEMALE,GENEL CERRAH? SERV?S?,33,9
+729,"{'I83', nan}","{0, 'E'}",Sedo Analjezi,,35,FEMALE,KVC SERV?S?,8,13
+2116,"{nan, 'M51.1'}","{0, 'B'}",Genel Anestezi,"?ntervertebral disk bozukluklar? di?er, tan?mlanmam??",48,MALE,ORTOPED? SERV?S?,42,4
+3591,"{nan, 'M51.1'}","{0, 'B'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",41,FEMALE,NÖRO??RÜRJ? SERV?S?,21,14
+473,{'K40'},{'C'},Spinal Anestezi,"Bilateral inguinal herni; obstrüksiyonlu, gangrensiz",53,MALE,GENEL CERRAH? SERV?S?,43,7
+1220,"{'I83', nan}","{0, 'E'}",Sedo Analjezi,"Alt ekstremitenin variköz venleri, enflamasyonla birlikte",59,FEMALE,KVC SERV?S?,8,6
+407,"{nan, 'K40.9'}","{'B', 'C'}",Spinal Anestezi,"Tek tarafl? veya tan?mlanmam?? inguinal herni, gangrensiz veya obstrüksiyonsuz",53,MALE,GENEL CERRAH? SERV?S?,43,12
+1957,"{'N20.0', 'N20.1'}","{'D', 'B'}",Sedo Analjezi,Böbrek ta??,51,MALE,ÜROLOJ? SERV?S?,27,14
+240,"{nan, 'K40'}",{'B'},Spinal Anestezi,,28,FEMALE,GENEL CERRAH? SERV?S?,5,4
+2890,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,66,MALE,KVC SERV?S?,46,14
+2125,{'K80.1'},{'B'},Genel Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",18,FEMALE,GENEL CERRAH? SERV?S?,5,14
+958,"{nan, 'M51.8'}","{0, 'B'}",Genel Anestezi,"?ntervertebral disk bozukluklar? di?er, tan?mlanmam??",56,FEMALE,ORTOPED? SERV?S?,42,2
+3387,"{nan, 'J30.2', 'J34.2'}","{0, 'E', 'C'}",Genel Anestezi,Nazal septum deviasyonu,40,FEMALE,KBB SERV?S?,6,14
+3391,{'K40.9'},{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",42,MALE,GENEL CERRAH? SERV?S?,36,6
+266,"{nan, 'M51.1'}","{0, 'B'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",34,MALE,ORTOPED? SERV?S?,42,7
+2011,{'M51.8'},{0},Lokal Anestezi,,76,FEMALE,ORTOPED? SERV?S?,21,12
+1548,{'K80.1'},{'B'},Genel Anestezi,"Safra kesesi ta??, akut kolesistit ile",41,MALE,GENEL CERRAH? SERV?S?,47,4
+475,{'K40.9'},{'C'},Spinal Anestezi,,47,MALE,GENEL CERRAH? SERV?S?,36,7
+828,"{nan, 'M51.1', 'M54.5'}","{0, 'B'}",Genel Anestezi,Servikal disk bozukluklar?,41,FEMALE,ORTOPED? SERV?S?,42,12
+1152,{'L05'},{'C'},Spinal Anestezi,Pilonidal kist,35,MALE,GENEL CERRAH? SERV?S?,43,13
+2027,"{nan, 'S86.0'}",{'D'},Spinal Anestezi,A?il tendon yaralanmas?,40,MALE,ORTOPED? SERV?S?,23,2
+1591,{'M50.1'},{'A3'},Genel Anestezi,"Servikal disk bozukluklar?, radikülopati ile",43,FEMALE,ORTOPED? SERV?S?,21,12
+3112,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",30,FEMALE,GENEL CERRAH? SERV?S?,5,11
+250,{'J34.2'},{'B'},Genel Anestezi,,20,FEMALE,KBB SERV?S?,19,10
+815,"{nan, 'K21.0', 'M17.9'}","{'B', 'C'}",Genel Anestezi,"Gonartroz, tan?mlanmam??",76,FEMALE,ORTOPED? SERV?S?,32,14
+1868,"{'K21', 'G56.0'}","{'D', 'C'}",Sedo Analjezi,,49,FEMALE,ORTOPED? SERV?S?,32,13
+2724,{'I83'},"{0, 'E'}",Sedo Analjezi,Alt ekstremitenin variköz venleri,49,FEMALE,KVC SERV?S?,46,11
+3446,"{nan, 'M51.1'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,"Servikal disk bozukluklar?, myelopati ile (G99.2*)",46,FEMALE,NÖRO??RÜRJ? SERV?S?,42,11
+496,"{'L60.0', 'L03.8'}",{'E'},Sedo Analjezi,"L60,6",17,MALE,ORTOPED? SERV?S?,17,11
+917,{'K42'},{'C'},Genel Anestezi,"Umbilikal herni; obstrüksiyonlu, gangrensiz",31,FEMALE,GENEL CERRAH? SERV?S?,36,12
+803,{'L05.0'},{'C'},Spinal Anestezi,Pilonidal kist,34,MALE,GENEL CERRAH? SERV?S?,5,3
+2135,{'K42'},{'C'},Genel Anestezi,Umbilikal herni,41,FEMALE,GENEL CERRAH? SERV?S?,36,4
+1057,{'N20.1'},"{'D', 'C'}",Sedo Analjezi,Üreter ta??,45,MALE,ÜROLOJ? SERV?S?,26,9
+2658,"{nan, 'M51.1'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",52,FEMALE,NÖRO??RÜRJ? SERV?S?,42,12
+2472,{'K40.9'},{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",42,MALE,GENEL CERRAH? SERV?S?,36,13
+2392,"{nan, 'K21', 'M25.5'}","{'B', 'C'}",Genel Anestezi,Eklem a?r?s?,59,FEMALE,ORTOPED? SERV?S?,32,11
+3489,"{nan, 'M23.83'}","{'D', 'C'}",Genel Anestezi,"Di?er iç yerle?im bozukluklar?, medial kollateral ligament veya di?er ve tan?mlanmam?? medial menisküs",51,FEMALE,ORTOPED? SERV?S?,23,12
+2715,"{nan, 'M50'}","{0, 'A3'}",Genel Anestezi,"?ntervertebral disk bozukluklar? di?er, tan?mlanmam??",34,MALE,NÖRO??RÜRJ? SERV?S?,21,2
+420,{'K40.9'},{'C'},Spinal Anestezi,,58,MALE,GENEL CERRAH? SERV?S?,36,1
+2896,{'I83.9'},"{0, 'E'}",Rejyonel Sinir Blo?u,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,40,MALE,KVC SERV?S?,46,14
+3705,{'Z01.4'},{0},Sedo Analjezi,Jinekolojik muayene (genel) (ola?an),46,FEMALE,KADIN DO?UM SERV?S?,48,12
+2569,"{nan, 'J34.2'}","{0, 'E', 'C'}",Genel Anestezi,,31,MALE,KBB SERV?S?,6,2
+295,"{'N20.0', 'K21.9', 'M19.9', 'N30.0'}",{'B'},Genel Anestezi,Böbrek ta??,74,MALE,ÜROLOJ? SERV?S?,15,4
+3202,{'I83.9'},{0},Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,43,FEMALE,KVC SERV?S?,46,4
+3631,{'K40'},{'B'},Genel Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",51,MALE,GENEL CERRAH? SERV?S?,43,6
+2626,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,36,FEMALE,KVC SERV?S?,46,13
+3511,"{nan, 'K43.9', 'K42'}","{'B', 'C'}",Genel Anestezi,"Kolelitiazis, di?er",51,FEMALE,GENEL CERRAH? SERV?S?,36,12
+1980,"{nan, 'M51.1'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,"?ntervertebral disk bozukluklar? di?er, tan?mlanmam??",61,FEMALE,ORTOPED? SERV?S?,42,14
+2380,"{'L30.8', 'M79.1', 'K40.1'}",{'C'},Spinal Anestezi,"Bilateral inguinal herni, gangrenli",43,MALE,GENEL CERRAH? SERV?S?,29,13
+2111,"{nan, 'K40.3'}","{'B', 'C'}",Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",37,MALE,GENEL CERRAH? SERV?S?,5,6
+2266,{'I83'},"{0, 'E'}",Sedo Analjezi,Alt ekstremitenin variköz venleri,47,FEMALE,GENEL KARMA CERRAH? SERV?S?,46,12
+2322,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,48,FEMALE,KVC SERV?S?,46,6
+2969,{'Z41.2'},{'D'},Sedo Analjezi,Rutin ve dini sünnet,6,MALE,ÜROLOJ? SERV?S?,15,2
+1133,{'N47'},"{0, 'D'}",Sedo Analjezi,"Sünnet derisinin fazlal???, fimozis ve parafimozis",3,MALE,ÜROLOJ? SERV?S?,11,3
+1673,{'H26.9'},{'C'},Sedo Analjezi,,76,FEMALE,GÖZ HASTALIKLARI SERV?S?,49,13
+225,{'K80.1'},{'B'},Genel Anestezi,"Safra kesesi ta??, di?er kolesistit ile",58,FEMALE,GENEL CERRAH? SERV?S?,5,6
+3572,{'K42'},{'C'},Genel Anestezi,Umbilikal herni,48,FEMALE,GENEL CERRAH? SERV?S?,47,11
+3411,{'N20'},"{'D', 'C'}",Sedo Analjezi,Böbrek ta??,21,FEMALE,ÜROLOJ? SERV?S?,27,12
+3228,"{'K21.9', 'J15.9', 'N30.0', 'N21.1', 'N30.9', 'L30.3', 'N40', 'N32.0', 'M19.9'}",{'B'},Spinal Anestezi,Üretra ta??,68,MALE,ÜROLOJ? SERV?S?,15,2
+959,{'L05.0'},{'C'},Spinal Anestezi,,21,MALE,GENEL CERRAH? SERV?S?,5,7
+3524,{'L05'},{'C'},Sedo Analjezi,Pilonidal kist,19,MALE,GENEL CERRAH? SERV?S?,36,12
+3021,{'K40.9'},{'C'},Sedo Analjezi,"Tek tarafl? veya tan?mlanmam?? inguinal herni, gangrensiz veya obstrüksiyonsuz ",31,MALE,GENEL CERRAH? SERV?S?,36,12
+3541,"{'M25.5', 'S92.90'}",{'C'},Spinal Anestezi,Eklem a?r?s?,46,FEMALE,ORTOPED? SERV?S?,23,4
+2287,"{nan, 'M51.1'}","{0, 'B'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",47,MALE,ORTOPED? SERV?S?,42,12
+2946,{'K40.9'},{'C'},Spinal Anestezi,"Kolelitiazis, di?er",55,MALE,GENEL CERRAH? SERV?S?,47,12
+1565,"{nan, 'K40.3'}","{'B', 'C'}",Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",48,FEMALE,GENEL CERRAH? SERV?S?,5,9
+3151,"{nan, 'J32.0', 'J34.2'}","{0, 'E', 'C'}",Genel Anestezi,Nazal septum deviasyonu,35,FEMALE,KBB SERV?S?,6,11
+1908,{'K80.1'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",51,FEMALE,GENEL CERRAH? SERV?S?,5,12
+1739,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,35,MALE,KVC SERV?S?,46,12
+3540,{'S92.3'},{'C'},Spinal Anestezi,Metatarsal kemik k?r???,21,MALE,ORTOPED? SERV?S?,22,4
+3242,{'K60.3'},{'C'},Sedo Analjezi,Anal fissür tan?mlanmam??,47,FEMALE,GENEL CERRAH? SERV?S?,36,4
+1262,{'G56.2'},{'C'},Genel Anestezi,Ulnar sinir lezyonu,23,FEMALE,ORTOPED? SERV?S?,21,6
+3239,"{'Z41.2', 'Q53.1'}","{'D', 'B'}",Genel Anestezi,Rutin ve dini sünnet,6,MALE,ÜROLOJ? SERV?S?,15,4
+2023,"{nan, 'M51.1'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",55,FEMALE,ORTOPED? SERV?S?,42,2
+3132,"{'R22', 'Z44.3'}",{'B'},Genel Anestezi,D?? meme protezinin uygulamas?,27,FEMALE,PLAST?K CERRAH?,39,11
+1745,{'K40.9'},{'C'},Spinal Anestezi,"Kolelitiazis, di?er",69,MALE,GENEL CERRAH? SERV?S?,47,12
+680,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,32,FEMALE,KVC SERV?S?,46,9
+820,{'H26.9'},{'C'},Sedo Analjezi,"Katarakt, tan?mlanmam??",69,MALE,GÖZ HASTALIKLARI SERV?S?,49,4
+2250,{'K42.0'},{'C'},Genel Anestezi,"Bilateral inguinal herni, gangrenli",47,FEMALE,GENEL CERRAH? SERV?S?,36,13
+3167,{'M25.5'},"{'B', 'C'}",Genel Anestezi,Eklem a?r?s?,6,FEMALE,ORTOPED? SERV?S?,40,4
+3396,{'L05.9'},{'C'},Sedo Analjezi,Pilonidal kist,23,MALE,GENEL CERRAH? SERV?S?,36,6
+564,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",55,FEMALE,GENEL CERRAH? SERV?S?,47,13
+472,"{'K21.9', 'I86.1', 'J15.9'}",{'C'},Genel Anestezi,Varikosel,19,MALE,ÜROLOJ? SERV?S?,15,11
+1927,{'M95.0'},"{'D', 'C'}",Genel Anestezi,Burnun kazan?lm?? deformitesi,26,FEMALE,PLAST?K CERRAH?,39,13
+2121,{'K80.1'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",40,FEMALE,GENEL CERRAH? SERV?S?,5,2
+2631,"{'N20.0', 'N39.0'}",{'C'},Spinal Anestezi,,64,FEMALE,GENEL CERRAH? SERV?S?,26,12
+3117,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,59,FEMALE,KVC SERV?S?,25,2
+608,"{'M51.1', nan, 'M48.0'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",49,FEMALE,ORTOPED? SERV?S?,42,9
+2797,{'K40.3'},{'C'},Sedo Analjezi,?nguinal herni,43,MALE,GENEL CERRAH? SERV?S?,36,6
+951,{'I86.1'},{'C'},Spinal Anestezi,Varikosel,22,MALE,ÜROLOJ? SERV?S?,27,7
+1804,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,54,FEMALE,KVC SERV?S?,46,13
+2089,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,52,MALE,KVC SERV?S?,25,6
+3005,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,43,FEMALE,KVC SERV?S?,46,11
+2102,{'I86.1'},{'C'},Spinal Anestezi,Varikosel,28,MALE,ÜROLOJ? SERV?S?,31,6
+3085,{'N23'},{'B'},Spinal Anestezi,"Renal kolik, tan?mlanmam??",41,MALE,ÜROLOJ? SERV?S?,26,15
+2536,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",55,FEMALE,GENEL CERRAH? SERV?S?,36,4
+2761,{'K80.8'},{'B'},Epidural ve Genel Anestezi,"Kolelitiazis, di?er",50,FEMALE,GENEL CERRAH? SERV?S?,47,14
+1002,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",45,FEMALE,GENEL CERRAH? SERV?S?,47,10
+212,"{'R31', 'C67.2'}","{'B', 'A3'}",Spinal Anestezi,Mesane yan duvar? malign neoplazm?,72,MALE,ÜROLOJ? SERV?S?,11,11
+2128,"{nan, 'L20', 'R07.0', 'J34.2'}","{'D', 'B', 'C'}",Genel Anestezi,Nazal septum deviasyonu,19,FEMALE,KBB SERV?S?,18,14
+156,{'K60.2'},"{'D', 'C'}",Sedo Analjezi,Anal fissür tan?mlanmam??,44,MALE,GENEL CERRAH? SERV?S?,36,5
+3184,"{'L30.8', 'M79.1', 'K29.1', 'K80.8'}",{'B'},Genel Anestezi,"Bilateral inguinal herni; obstrüksiyonlu, gangrensiz",67,FEMALE,GENEL CERRAH? SERV?S?,29,16
+985,"{nan, 'K40'}",{'B'},Spinal Anestezi,?nguinal herni,51,MALE,GENEL CERRAH? SERV?S?,43,14
+3726,{'M50.0'},{'A3'},Genel Anestezi,"Servikal disk bozukluklar?, myelopati ile (G99.2*)",42,FEMALE,NÖRO??RÜRJ? SERV?S?,21,2
+795,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,39,FEMALE,KVC SERV?S?,46,10
+314,"{nan, 'M17.4'}","{'B', 'C'}",Kombine Spinal Epidural Anestezi,,61,FEMALE,ORTOPED? SERV?S?,9,9
+821,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",52,MALE,GENEL CERRAH? SERV?S?,33,13
+345,{'L05.9'},{'C'},Spinal Anestezi,Pilonidal kist,39,MALE,GENEL CERRAH? SERV?S?,47,3
+3023,{'J30.2'},{'C'},Genel Anestezi,,5,FEMALE,KBB SERV?S?,18,12
+2924,{'Z41.2'},"{0, 'D'}",Sedo Analjezi,Rutin ve dini sünnet,9,MALE,ÜROLOJ? SERV?S?,26,12
+366,{'I84.8'},{'D'},Spinal Anestezi,"Hemoroidler, di?er komplikasyonlarla birlikte, tan?mlanmam??",42,MALE,GENEL CERRAH? SERV?S?,35,5
+1707,"{nan, 'R22.9'}",{'D'},Sedo Analjezi,"Birden fazla yerin lokalize ?i?me, kitle ve yumrusu",49,MALE,PLAST?K CERRAH?,28,12
+1564,"{nan, 'I83', 'M51.1'}","{0, 'B'}",Genel Anestezi,"Alt ekstremitenin variköz venleri, ülserli",35,MALE,ORTOPED? SERV?S?,42,9
+2899,"{nan, 'I10', 'M51.1'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",64,MALE,NÖRO??RÜRJ? SERV?S?,42,12
+2996,{'N64.2'},{'B'},Genel Anestezi,D?? meme protezinin uygulamas?,28,FEMALE,PLAST?K CERRAH?,39,12
+1524,{'M50.1'},{'A3'},Genel Anestezi,"Servikal disk bozukluklar?, radikülopati ile",22,MALE,ORTOPED? SERV?S?,21,13
+2296,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,21,MALE,KVC SERV?S?,25,11
+1483,{'M95.0'},"{'D', 'B', 'C'}",Genel Anestezi,Burnun kazan?lm?? deformitesi,20,FEMALE,PLAST?K CERRAH?,39,13
+1652,"{nan, 'M17'}","{'B', 'C'}",Spinal Anestezi,Gonartroz [diz ekleminin artrozu],58,FEMALE,ORTOPED? SERV?S?,23,11
+574,{'G56.0'},"{0, 'C'}",Sedo Analjezi,Karpal tünel sendromu,56,FEMALE,ORTOPED? SERV?S?,23,14
+2982,"{'I74.3', 'D50.8', 'L03.8', 'M17.9'}",{'B'},Genel Anestezi,"Gonartroz, tan?mlanmam??",56,FEMALE,ORTOPED? SERV?S?,17,11
+1138,{'N35.1'},{'C'},Genel Anestezi,"Postenfektif üretral darl?klar, ba?ka yerde s?n?flanmam??",70,MALE,ÜROLOJ? SERV?S?,11,3
+3385,{'N62'},{'B'},Genel Anestezi,Memenin hipertrofisi,25,MALE,PLAST?K CERRAH?,39,2
+387,{'I83.0'},"{0, 'E'}",Sedo Analjezi,,29,FEMALE,GENEL KARMA CERRAH? SERV?S?,25,4
+3273,"{'L30.8', 'M79.1', 'K40.2'}",{'B'},Sedo Analjezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",52,MALE,GENEL CERRAH? SERV?S?,29,12
+1159,{'K40.9'},{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",61,MALE,GENEL CERRAH? SERV?S?,33,14
+3508,"{nan, 'M95.0', 'J34.2'}","{0, 'B', 'C'}",Genel Anestezi,Nazal septum deviasyonu,18,FEMALE,KBB SERV?S?,2,11
+888,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",35,FEMALE,GENEL CERRAH? SERV?S?,47,13
+2779,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,43,MALE,KVC SERV?S?,46,12
+2950,"{'R00.2', 'K40.9'}",{'C'},Sedo Analjezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",36,MALE,GENEL CERRAH? SERV?S?,47,12
+1544,"{nan, 'W18'}","{'B', 'C'}",Spinal Anestezi,,50,MALE,ORTOPED? SERV?S?,22,2
+871,"{nan, 'M79.57'}","{'D', 'E'}",Sedo Analjezi,"Rezidüel yabanc? cisim, yumu?ak dokuda, ayak bile?i ve ayak",41,FEMALE,ORTOPED? SERV?S?,23,10
+752,"{nan, 'K40.3'}","{'B', 'C'}",Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",46,MALE,GENEL CERRAH? SERV?S?,5,12
+2168,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,61,FEMALE,KVC SERV?S?,25,2
+1373,{'N64'},{'B'},Genel Anestezi,Memede di?er belirti ve semptomlar,47,FEMALE,PLAST?K CERRAH?,39,12
+689,"{'K40.9', 'N43.3'}",{'C'},Spinal Anestezi,"Tek tarafl? veya tan?mlanmam?? inguinal herni, gangrensiz veya obstrüksiyonsuz ",28,MALE,GENEL CERRAH? SERV?S?,36,4
+983,"{'K21.9', 'R22.4'}",{'C'},Spinal Anestezi,Aya??n birden fazla k?r?klar?,24,MALE,ORTOPED? SERV?S?,32,1
+1800,{'W18'},{'B'},Genel Anestezi,"Ayn? seviyeden dü?me, di?er",24,MALE,ORTOPED? SERV?S?,40,2
+3372,"{nan, 'Z01.4'}",{0},Sedo Analjezi,"A??r? ve s?k menstrüasyon, düzensiz siklus ile",52,FEMALE,KADIN DO?UM SERV?S?,48,4
+537,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,28,MALE,KVC SERV?S?,25,4
+342,"{'K40.9', 'E13.9', 'I10'}",{'B'},Genel Anestezi,,55,MALE,GENEL CERRAH? SERV?S?,35,7
+2945,{'K40.9'},{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",34,MALE,GENEL CERRAH? SERV?S?,47,12
+221,"{'K21.9', 'K40.9'}",{'C'},Spinal Anestezi,,49,MALE,GENEL CERRAH? SERV?S?,33,1
+3279,"{'L03.9', 'M65.3'}",{'D'},Sedo Analjezi,Tetik parmak,69,FEMALE,ORTOPED? SERV?S?,17,11
+2092,{'K40.9'},{'C'},Sedo Analjezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",47,MALE,GENEL CERRAH? SERV?S?,36,6
+525,{'K80.8'},{'B'},Genel Anestezi,,41,MALE,GENEL CERRAH? SERV?S?,35,9
+683,{'M95.0'},"{'D', 'B', 'C'}",Genel Anestezi,Burnun kazan?lm?? deformitesi,27,FEMALE,PLAST?K CERRAH?,39,3
+2595,{'K40.3'},"{'D', 'C'}",Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",24,MALE,GENEL CERRAH? SERV?S?,5,11
+2709,"{'M54.5', nan, 'M48.06', 'M43.1'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,"Spinal stenoz, lomber bölge",52,FEMALE,NÖRO??RÜRJ? SERV?S?,42,14
+731,"{'I83', nan}","{0, 'E'}",Sedo Analjezi,,45,FEMALE,KVC SERV?S?,8,13
+3463,{'K40'},{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",57,MALE,GENEL CERRAH? SERV?S?,5,4
+2578,{'M25.8'},{'B'},Spinal Anestezi,Di?er tan?mlanm?? eklem bozukluklar?,61,FEMALE,ORTOPED? SERV?S?,40,2
+717,"{'I84.8', 'K60.2'}","{'D', 'C'}",Spinal Anestezi,Anal fissür tan?mlanmam??,61,MALE,GENEL CERRAH? SERV?S?,5,13
+1897,{'K80.0'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",29,FEMALE,GENEL CERRAH? SERV?S?,47,13
+553,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,37,FEMALE,KVC SERV?S?,25,13
+908,{'N43'},{'C'},Spinal Anestezi,Hidrosel ve spermatosel,47,MALE,ÜROLOJ? SERV?S?,26,1
+1313,{'M95.0'},"{'D', 'C'}",Genel Anestezi,Burnun kazan?lm?? deformitesi,29,FEMALE,PLAST?K CERRAH?,39,10
+3687,{'Z01.4'},{0},Sedo Analjezi,Jinekolojik muayene (genel) (ola?an),48,FEMALE,NÖRO??RÜRJ? SERV?S?,48,12
+338,{'L60'},{'E'},Rejyonel Sinir Blo?u,T?rnak distrofisi,23,FEMALE,ORTOPED? SERV?S?,17,7
+3260,{'H25.1'},{'C'},Lokal Anestezi,Senil nükleer katarakt,69,MALE,GÖZ HASTALIKLARI SERV?S?,49,12
+2205,"{nan, 'M51.1'}","{0, 'B'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",42,FEMALE,ORTOPED? SERV?S?,42,6
+169,"{'J34.2', 'J34'}","{0, 'D', 'C'}",Genel Anestezi,Burun ve nazal sinüslerin di?er bozukluklar?,35,MALE,KBB SERV?S?,19,1
+941,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",42,MALE,GENEL CERRAH? SERV?S?,34,10
+2551,{'I83.9'},"{0, 'E'}",Lokal Anestezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,43,FEMALE,KVC SERV?S?,46,6
+3501,"{'K86.8', 'K80.8', 'K58.9'}",{'B'},Genel Anestezi,"Kolelitiazis, di?er",39,MALE,GENEL CERRAH? SERV?S?,29,11
+486,{'K80.1'},"{'B', 'C'}",Genel Anestezi,"Safra kesesi ta??, di?er kolesistit ile",54,MALE,GENEL CERRAH? SERV?S?,5,3
+3321,{'Z41.2'},{'D'},Lokal Anestezi,Rutin ve dini sünnet,2,MALE,ÜROLOJ? SERV?S?,15,11
+2268,{'M50.9'},{'A3'},Genel Anestezi,"Servikal disk bozuklu?u, tan?mlanmam??",37,FEMALE,ORTOPED? SERV?S?,42,2
+3123,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,42,FEMALE,KVC SERV?S?,25,2
+697,"{nan, 'M17.9', 'I87.2'}","{'B', 'C'}",Lokal Anestezi,"Gonartroz, tan?mlanmam??",59,FEMALE,ORTOPED? SERV?S?,32,10
+1822,"{nan, 'M20.1', 'A49.9'}","{'D', 'C'}",Spinal Anestezi,Halluks valgus kazan?lm??,44,MALE,ORTOPED? SERV?S?,32,12
+274,"{nan, 'M51.9'}","{0, 'B'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",50,FEMALE,ORTOPED? SERV?S?,42,9
+3295,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,42,FEMALE,KVC SERV?S?,46,4
+2930,{'M25.5'},{'D'},Sedo Analjezi,Eklem a?r?s?,61,FEMALE,ORTOPED? SERV?S?,40,12
+2285,"{nan, 'M51.1'}","{0, 'B'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",53,MALE,ORTOPED? SERV?S?,21,11
+3134,"{nan, 'J34.2'}","{0, 'E', 'C'}",Genel Anestezi,,28,MALE,KBB SERV?S?,41,4
+1457,"{nan, 'K42'}","{'B', 'C'}",Genel Anestezi,,28,FEMALE,GENEL CERRAH? SERV?S?,33,13
+365,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",43,FEMALE,GENEL CERRAH? SERV?S?,35,5
+1360,{'N23'},"{'D', 'B'}",Genel Anestezi,"Renal kolik, tan?mlanmam??",70,MALE,ÜROLOJ? SERV?S?,26,3
+1795,{'K80.1'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",27,FEMALE,GENEL CERRAH? SERV?S?,5,13
+1611,"{'N30.0', 'N20.1'}","{'D', 'B'}",Genel Anestezi,Akut sistit,56,FEMALE,ÜROLOJ? SERV?S?,31,12
+1421,{'K40.2'},{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",51,MALE,GENEL CERRAH? SERV?S?,47,1
+2641,{'L05'},{'C'},Spinal Anestezi,Pilonidal kist,23,MALE,GENEL CERRAH? SERV?S?,43,6
+2951,"{nan, 'M51.1'}","{0, 'B'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",30,MALE,NÖRO??RÜRJ? SERV?S?,42,15
+743,{'L05'},"{'A3', 'C'}",Genel Anestezi,,27,MALE,GENEL CERRAH? SERV?S?,43,14
+1645,{'K42.9'},{'C'},Genel Anestezi,Umbilikal herni,56,MALE,GENEL CERRAH? SERV?S?,47,11
+319,{'K80.8'},"{'B', 'C'}",Genel Anestezi,,69,MALE,GENEL CERRAH? SERV?S?,36,3
+1466,{'K60.3'},{'C'},Genel Anestezi,"Anal fissür, akut",46,MALE,GENEL CERRAH? SERV?S?,5,13
+2879,{'N40'},{'B'},Sedo Analjezi,Benign prostat hiperplazisi,72,MALE,ÜROLOJ? SERV?S?,26,14
+2818,{'J34.2'},"{'D', 'B', 'C'}",Genel Anestezi,,31,FEMALE,KBB SERV?S?,18,11
+3404,{'H25.1'},{'C'},Rejyonel Sinir Blo?u,Senil nükleer katarakt,69,MALE,GÖZ HASTALIKLARI SERV?S?,49,12
+2284,{'M95.0'},"{'D', 'B'}",Genel Anestezi,Burnun kazan?lm?? deformitesi,25,FEMALE,PLAST?K CERRAH?,28,13
+2015,"{nan, 'K43.9', 'K42.0'}","{'B', 'C'}",Genel Anestezi,Umbilikal herni,65,FEMALE,GENEL CERRAH? SERV?S?,36,13
+1724,{'N47'},{'D'},Sedo Analjezi,"Sünnet derisinin fazlal???, fimozis ve parafimozis",1,MALE,ÜROLOJ? SERV?S?,31,11
+2281,"{nan, 'J34.2'}","{0, 'E', 'C'}",Genel Anestezi,Nazal septum deviasyonu,34,MALE,KBB SERV?S?,6,12
+115,{'J34.2'},"{0, 'D', 'C'}",Genel Anestezi,Nazal septum deviasyonu,57,MALE,KBB SERV?S?,19,9
+3430,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,47,FEMALE,KVC SERV?S?,46,6
+724,{'L05'},{'C'},Spinal Anestezi,,18,MALE,GENEL CERRAH? SERV?S?,33,13
+2907,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",56,FEMALE,GENEL CERRAH? SERV?S?,36,14
+287,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,45,FEMALE,GENEL KARMA CERRAH? SERV?S?,25,2
+1608,"{nan, 'S32.0'}","{0, 'D', 'B', 'A3'}",Genel Anestezi,Lomber vertebra k?r???,50,MALE,ORTOPED? SERV?S?,42,13
+3339,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",47,FEMALE,GENEL CERRAH? SERV?S?,47,2
+1547,"{'N31.8', 'N23'}","{'D', 'B'}",Spinal Anestezi,"Renal kolik, tan?mlanmam??",70,MALE,ÜROLOJ? SERV?S?,26,2
+3583,{'N20.1'},{'B'},Genel Anestezi,Böbrek ta??,32,MALE,ÜROLOJ? SERV?S?,26,11
+622,{'K40'},{'C'},Spinal Anestezi,?nguinal herni,45,MALE,GENEL CERRAH? SERV?S?,47,9
+855,{'N43.3'},{'C'},Spinal Anestezi,"Hidrosel, tan?mlanmam??",26,MALE,ÜROLOJ? SERV?S?,27,7
+142,{'I86.1'},{'B'},Genel Anestezi,Varikosel,24,MALE,ÜROLOJ? SERV?S?,11,11
+3149,{'S92.5'},{'C'},Sedo Analjezi,Ayak parma??n?n di?er k?r?klar?,29,MALE,ORTOPED? SERV?S?,10,15
+1993,{'M95.0'},"{'D', 'C'}",Genel Anestezi,Burnun kazan?lm?? deformitesi,27,FEMALE,PLAST?K CERRAH?,39,14
+2302,"{nan, 'K42.9'}","{'B', 'C'}",Genel Anestezi,"Umbilikal herni, gangrenli",41,MALE,GENEL CERRAH? SERV?S?,5,14
+527,{'L05'},{'C'},Spinal Anestezi,Pilonidal kist,19,MALE,GENEL CERRAH? SERV?S?,43,7
+166,"{nan, 'J34'}","{0, 'D', 'B', 'C'}",Genel Anestezi,Burun ve nazal sinüslerin di?er bozukluklar?,45,MALE,KBB SERV?S?,37,7
+2932,{'H25.1'},{'C'},Sedo Analjezi,Senil nükleer katarakt,70,FEMALE,GÖZ HASTALIKLARI SERV?S?,49,6
+2495,{'I83'},"{0, 'E'}",Sedo Analjezi,Alt ekstremitenin variköz venleri,53,FEMALE,KVC SERV?S?,46,13
+199,"{'M54.5', nan, 'M48.0', 'M51.8'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,"Spinal stenoz, lomber bölge",53,FEMALE,ORTOPED? SERV?S?,21,4
+1780,{'H25.1'},{'C'},Sedo Analjezi,Senil nükleer katarakt,72,FEMALE,GÖZ HASTALIKLARI SERV?S?,49,13
+1594,{'K60.1'},"{'D', 'C'}",Sedo Analjezi,Anal fissür tan?mlanmam??,27,MALE,GENEL CERRAH? SERV?S?,36,11
+1173,{'H25.8'},{'C'},Sedo Analjezi,,73,MALE,GÖZ HASTALIKLARI SERV?S?,49,2
+3548,{'M95.0'},"{'D', 'B', 'C'}",Genel Anestezi,Nazal septum deviasyonu,19,FEMALE,KBB SERV?S?,18,4
+1624,{'L05'},{'C'},Spinal Anestezi,"Lokalize ?i?me kitle ve yumrusu, tan?mlanmam??",21,MALE,GENEL CERRAH? SERV?S?,47,13
+1320,{'L05'},{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",50,MALE,GENEL CERRAH? SERV?S?,47,10
+2514,"{nan, 'K80.8', 'L30.8', 'K29.1', 'M79.1'}","{'D', 'B'}",Genel Anestezi,"Kolelitiazis, di?er",50,FEMALE,GENEL CERRAH? SERV?S?,29,12
+1704,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",52,FEMALE,GENEL CERRAH? SERV?S?,43,12
+1885,{'K60.1'},"{'D', 'C'}",Sedo Analjezi,"Anal fissür, akut",34,MALE,GENEL CERRAH? SERV?S?,36,4
+617,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",63,FEMALE,GENEL CERRAH? SERV?S?,47,9
+1462,"{nan, 'S52.5'}","{'B', 'C'}",Genel Anestezi,Radius alt uç k?r???,45,FEMALE,ORTOPED? SERV?S?,10,4
+651,{'K80'},{'B'},Genel Anestezi,Safra ta??,42,FEMALE,GENEL CERRAH? SERV?S?,33,10
+147,"{nan, 'K40'}","{'B', 'C'}",Spinal Anestezi,,32,MALE,GENEL CERRAH? SERV?S?,5,10
+2948,"{'M67.4', 'L03.8'}",{'D'},Sedo Analjezi,Ganglion,29,MALE,ORTOPED? SERV?S?,17,2
+2922,"{'L30.8', 'M79.1', 'K40.9', 'K42'}",{'C'},Genel Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",55,MALE,GENEL CERRAH? SERV?S?,29,12
+911,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,59,MALE,KVC SERV?S?,25,9
+3437,{'S83.3'},{'C'},Genel Anestezi,Diz artiküler k?k?rdak y?rt???,12,FEMALE,ORTOPED? SERV?S?,32,16
+3268,"{'M65.3', 'L03.8'}",{'D'},Lokal Anestezi,Tetik parmak,55,FEMALE,ORTOPED? SERV?S?,17,11
+3164,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",34,MALE,GENEL CERRAH? SERV?S?,47,4
+3675,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,50,MALE,KVC SERV?S?,25,6
+2264,"{nan, 'K40.3'}","{'B', 'C'}",Spinal Anestezi,?nguinal herni,43,MALE,GENEL CERRAH? SERV?S?,5,4
+3037,{'Z41.2'},{'D'},Sedo Analjezi,Rutin ve dini sünnet,13,MALE,ÜROLOJ? SERV?S?,15,11
+3641,"{'K21.0', 'L03.8', 'M17.9', 'I74.8'}",{'B'},Genel Anestezi,,56,FEMALE,ORTOPED? SERV?S?,17,4
+2225,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",51,MALE,GENEL CERRAH? SERV?S?,47,13
+3298,"{nan, 'N92.0'}",{0},Sedo Analjezi,"A??r? ve s?k menstrüasyon, düzenli siklus ile",42,FEMALE,KADIN DO?UM SERV?S?,48,4
+3478,{'J33.9'},{'D'},Sedo Analjezi,"Nazal polip, tan?mlanmam??",48,MALE,KBB SERV?S?,6,12
+148,"{nan, 'K42'}","{'B', 'C'}",Genel Anestezi,,36,FEMALE,GENEL CERRAH? SERV?S?,5,10
+467,{'L05.0'},{'C'},Spinal Anestezi,Pilonidal kist,25,MALE,GENEL CERRAH? SERV?S?,43,4
+1549,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",31,FEMALE,GENEL CERRAH? SERV?S?,47,4
+1499,{'K80.8'},{'B'},Genel Anestezi,,38,MALE,GENEL CERRAH? SERV?S?,36,12
+1625,"{nan, 'M51.1'}","{0, 'B'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",54,MALE,ORTOPED? SERV?S?,21,11
+2661,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,50,MALE,KVC SERV?S?,25,4
+2758,{'N47'},{'D'},Sedo Analjezi,"Sünnet derisinin fazlal???, fimozis ve parafimozis",2,MALE,ÜROLOJ? SERV?S?,31,12
+1573,"{'I83', nan}","{0, 'E'}",Sedo Analjezi,Alt ekstremitenin variköz venleri,46,MALE,KVC SERV?S?,8,9
+170,"{nan, 'M17.9'}","{'B', 'C'}",Spinal Anestezi,"Gonartroz, tan?mlanmam??",67,MALE,ORTOPED? SERV?S?,23,2
+1699,{'K80.8'},{'B'},Genel Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",61,MALE,GENEL CERRAH? SERV?S?,36,6
+3720,"{'N20.0', 'N23'}",{'B'},Sedo Analjezi,Böbrek ta??,46,MALE,ÜROLOJ? SERV?S?,26,4
+1613,{'K42.0'},{'C'},Genel Anestezi,"Umbilikal herni, gangrenli",40,FEMALE,GENEL CERRAH? SERV?S?,36,11
+428,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,51,MALE,KVC SERV?S?,25,6
+3679,"{'L30.8', 'M79.1', 'K40'}",{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",49,MALE,GENEL CERRAH? SERV?S?,29,12
+1016,{'N31.8'},"{0, 'D'}",Sedo Analjezi,Mesanenin di?er nöromusküler disfonksiyonlar?,59,FEMALE,ÜROLOJ? SERV?S?,26,14
+2476,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",62,MALE,GENEL CERRAH? SERV?S?,36,13
+738,"{nan, 'M51.8'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",56,FEMALE,ORTOPED? SERV?S?,42,13
+2992,{'N20.1'},"{'D', 'B', 'C'}",Spinal Anestezi,,23,FEMALE,ÜROLOJ? SERV?S?,31,15
+1876,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,42,FEMALE,KVC SERV?S?,25,4
+3488,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,35,MALE,KVC SERV?S?,46,6
+2153,"{nan, 'K40.3'}",{'B'},Spinal Anestezi,"Kolelitiazis, di?er",46,FEMALE,GENEL CERRAH? SERV?S?,5,2
+1068,{'N20.1'},"{'D', 'B'}",Spinal Anestezi,Üreter ta??,51,FEMALE,ÜROLOJ? SERV?S?,11,9
+734,{'I83'},"{0, 'E'}",Sedo Analjezi,Alt ekstremitenin variköz venleri,55,FEMALE,KVC SERV?S?,25,9
+1511,"{nan, 'M51.1'}","{0, 'B'}",Genel Anestezi,,59,FEMALE,ORTOPED? SERV?S?,42,2
+663,{'Z41.2'},{'D'},Sedo Analjezi,,5,MALE,ÜROLOJ? SERV?S?,15,14
+3580,{'M65.3'},{'D'},Sedo Analjezi,Tetik parmak,52,FEMALE,ORTOPED? SERV?S?,10,4
+513,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,45,MALE,KVC SERV?S?,25,10
+702,{'K42.0'},{'C'},Genel Anestezi,,74,MALE,GENEL CERRAH? SERV?S?,33,6
+226,"{nan, 'M51.9', 'M48.00'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,"?ntervertebral disk bozukluklar? di?er, tan?mlanmam??",65,MALE,ORTOPED? SERV?S?,21,4
+347,{'J34'},"{0, 'D', 'C'}",Genel Anestezi,Burun ve nazal sinüslerin di?er bozukluklar?,24,MALE,KBB SERV?S?,45,3
+1060,{'H26.9'},{'C'},Sedo Analjezi,"Katarakt, tan?mlanmam??",67,MALE,GÖZ HASTALIKLARI SERV?S?,49,9
+454,{'K80.8'},{'B'},Genel Anestezi,,53,FEMALE,GENEL CERRAH? SERV?S?,35,4
+3510,{'N93.9'},{'A3'},Genel Anestezi,"Anormal uterus ve vajina kanamas?, tan?mlanmam??",48,FEMALE,KADIN DO?UM SERV?S?,16,4
+1393,{'M95.0'},"{'D', 'B', 'C'}",Genel Anestezi,,37,FEMALE,PLAST?K CERRAH?,39,10
+898,"{nan, 'K40'}",{'B'},Spinal Anestezi,?nguinal herni,36,MALE,GENEL CERRAH? SERV?S?,43,9
+841,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",48,FEMALE,GENEL CERRAH? SERV?S?,36,2
+301,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,40,FEMALE,GENEL KARMA CERRAH? SERV?S?,25,2
+2409,"{'I83', 'Z00.8'}","{0, 'E'}",Sedo Analjezi,Alt ekstremitenin variköz venleri,56,FEMALE,KVC SERV?S?,25,11
+3178,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,44,FEMALE,KVC SERV?S?,25,15
+1099,"{nan, 'N30.0', 'K40'}","{'B', 'C'}",Spinal Anestezi,"Bilateral inguinal herni, gangrenli",44,MALE,GENEL CERRAH? SERV?S?,47,1
+403,"{'K21.9', 'J15.9', 'N30.2', 'N20.0', 'M19.9'}",{'C'},Genel Anestezi,"Kronik sistitler, di?er",49,FEMALE,ÜROLOJ? SERV?S?,15,5
+2838,"{nan, 'M51.8'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, myelopati ile (G99.2*)",43,FEMALE,NÖRO??RÜRJ? SERV?S?,42,13
+954,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,50,FEMALE,KVC SERV?S?,46,7
+1102,{'K40'},{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",22,MALE,GENEL CERRAH? SERV?S?,47,1
+1335,"{'I83', nan}","{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,62,FEMALE,GENEL KARMA CERRAH? SERV?S?,8,13
+635,{'K81.8'},{'B'},Genel Anestezi,Kronik kolesistit,52,FEMALE,GENEL CERRAH? SERV?S?,5,10
+3187,"{'K21.0', 'L03.8', 'G56.0'}",{'C'},Sedo Analjezi,,52,FEMALE,ORTOPED? SERV?S?,17,6
+2975,"{'Z41.2', 'L30.3'}",{'D'},Rejyonel Sinir Blo?u,Rutin ve dini sünnet,8,MALE,ÜROLOJ? SERV?S?,15,2
+2650,"{nan, 'R22'}","{'D', 'B'}",Sedo Analjezi,"Gövdenin lokalize ?i?me, kitle ve yumrusu",42,MALE,PLAST?K CERRAH?,28,6
+2338,"{nan, 'M17.9'}","{'A3', 'C'}",Spinal Anestezi,"Gonartroz, tan?mlanmam??",75,MALE,ORTOPED? SERV?S?,10,12
+1110,"{'N31.8', 'C67.9'}",{'A3'},Genel Anestezi,Mesanenin di?er nöromusküler disfonksiyonlar?,73,FEMALE,ÜROLOJ? SERV?S?,27,14
+2375,"{'L30.8', 'M79.1', 'K29.1', 'K80.2'}",{'B'},Genel Anestezi,"Safra kesesi ta??, kolesistit olmadan",40,FEMALE,GENEL CERRAH? SERV?S?,29,13
+2399,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Alt ekstremitenin variköz venleri,71,MALE,KVC SERV?S?,25,11
+893,{'M50.1'},{'A3'},Genel Anestezi,"Servikal disk bozukluklar?, radikülopati ile",37,MALE,ORTOPED? SERV?S?,42,3
+2019,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,52,FEMALE,KVC SERV?S?,25,13
+326,{'L05.0'},{'C'},Spinal Anestezi,Pilonidal kist,27,MALE,GENEL CERRAH? SERV?S?,43,1
+781,{'L05'},{'C'},Spinal Anestezi,,23,FEMALE,GENEL CERRAH? SERV?S?,43,13
+2520,"{'M79.1', 'K21.9', 'K80.8', 'L30'}",{'B'},Genel Anestezi,"Kolelitiazis, di?er",48,MALE,GENEL CERRAH? SERV?S?,29,12
+1319,{'K40'},{'B'},Sedo Analjezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",52,MALE,GENEL CERRAH? SERV?S?,47,10
+316,"{'K42.0', 'K40.9'}",{'C'},Spinal Anestezi,,57,MALE,GENEL CERRAH? SERV?S?,36,3
+1205,{'H25.1'},{'C'},Sedo Analjezi,,62,FEMALE,GÖZ HASTALIKLARI SERV?S?,49,14
+1295,{'L05'},{'C'},Spinal Anestezi,Pilonidal kist,65,MALE,GENEL CERRAH? SERV?S?,43,9
+3420,{'K80.8'},{'B'},Genel Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",43,MALE,GENEL CERRAH? SERV?S?,36,2
+3409,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,52,FEMALE,KVC SERV?S?,25,4
+2622,"{nan, 'M25.5'}","{'B', 'C'}",Genel Anestezi,Eklem a?r?s?,45,FEMALE,ORTOPED? SERV?S?,40,13
+1935,{'N40'},{'B'},Spinal Anestezi,Benign prostat hiperplazisi,52,MALE,ÜROLOJ? SERV?S?,26,4
+2552,{'I83.9'},"{0, 'E'}",Lokal Anestezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,42,FEMALE,KVC SERV?S?,46,6
+2853,{'L05.9'},{'C'},Sedo Analjezi,Pilonidal kist,24,MALE,GENEL CERRAH? SERV?S?,36,6
+1846,"{nan, 'M51.1'}","{0, 'B'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",44,FEMALE,ORTOPED? SERV?S?,42,11
+3645,"{nan, 'M20.1', 'K21.0', 'I87.2'}","{'D', 'C'}",Sedo Analjezi,,35,FEMALE,ORTOPED? SERV?S?,32,4
+2086,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,44,FEMALE,KVC SERV?S?,25,6
+1620,{'K80'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",27,FEMALE,GENEL CERRAH? SERV?S?,47,13
+979,{'K40'},{'C'},Spinal Anestezi,?nguinal herni,55,FEMALE,GENEL CERRAH? SERV?S?,43,14
+2974,{'K40.9'},{'C'},Sedo Analjezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",34,MALE,GENEL CERRAH? SERV?S?,47,2
+2196,{'N40'},"{0, 'B'}",Spinal Anestezi,Benign prostat hiperplazisi,59,MALE,ÜROLOJ? SERV?S?,31,12
+3650,{'K40'},{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",45,MALE,GENEL CERRAH? SERV?S?,43,2
+1344,{'L05'},{'C'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",29,MALE,GENEL CERRAH? SERV?S?,43,14
+1737,{'K80.8'},{'B'},Genel Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",58,MALE,GENEL CERRAH? SERV?S?,47,12
+3238,{'K80.8'},{'B'},Genel Anestezi,"Kolelitiazis, di?er",36,FEMALE,GENEL CERRAH? SERV?S?,43,6
+1736,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,41,FEMALE,KVC SERV?S?,46,12
+3302,"{'L30.8', 'M79.1', 'K80.8'}",{'B'},Spinal Anestezi,"Kolelitiazis, di?er",34,MALE,GENEL CERRAH? SERV?S?,29,11
+3576,{'K40.9'},{'C'},Spinal Anestezi,?nguinal herni,32,MALE,GENEL CERRAH? SERV?S?,47,11
+1322,{'C67.4'},{'A3'},Spinal Anestezi,Mesane arka duvar? malign neoplazm?,70,MALE,ÜROLOJ? SERV?S?,31,14
+1521,"{nan, 'I10', 'K40'}",{'B'},Spinal Anestezi,?nguinal herni,45,MALE,GENEL CERRAH? SERV?S?,43,4
+2033,{'N43.2'},{'C'},Genel Anestezi,"Hidrosel, di?er",62,MALE,ÜROLOJ? SERV?S?,31,13
+3381,{'N62'},{'B'},Genel Anestezi,Memenin hipertrofisi,21,MALE,PLAST?K CERRAH?,39,2
+3505,"{'N39.0', 'N40', 'N31.9'}",{'A3'},Spinal Anestezi,Benign prostat hiperplazisi,58,MALE,ÜROLOJ? SERV?S?,26,4
+3343,{'K80.8'},{'B'},Genel Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",50,MALE,GENEL CERRAH? SERV?S?,47,2
+476,"{'K21', 'I87.2', 'M17'}","{'B', 'C'}",Genel Anestezi,"Gonartroz, tan?mlanmam??",55,FEMALE,ORTOPED? SERV?S?,32,7
+3160,"{nan, 'M51.1'}","{0, 'B'}",Genel Anestezi,"?ntervertebral disk bozukluklar? di?er, tan?mlanmam??",47,MALE,NÖRO??RÜRJ? SERV?S?,21,6
+3686,"{'J33', 'R07.0', 'J30.2'}","{0, 'C'}",Genel Anestezi,Nazal polip,40,MALE,KBB SERV?S?,18,4
+1155,"{nan, 'K40.9'}","{'B', 'C'}",Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",56,MALE,GENEL CERRAH? SERV?S?,33,12
+2454,{'M95.0'},"{'D', 'C'}",Genel Anestezi,Burnun kazan?lm?? deformitesi,24,FEMALE,PLAST?K CERRAH?,28,4
+2965,"{nan, 'J34.2'}","{0, 'E', 'B', 'C'}",Genel Anestezi,Nazal septum deviasyonu,25,FEMALE,KBB SERV?S?,6,2
+1103,"{nan, 'M17.9', 'E13.9', 'I10'}","{'B', 'C'}",Spinal Anestezi,,79,FEMALE,ORTOPED? SERV?S?,23,14
+1278,"{nan, 'M51.1'}","{0, 'B'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",53,FEMALE,ORTOPED? SERV?S?,42,10
+3189,"{'M65.3', 'K21.0', 'L03.8'}",{'D'},Sedo Analjezi,,56,FEMALE,ORTOPED? SERV?S?,17,6
+433,{'I83.9'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,24,MALE,KVC SERV?S?,25,6
+1464,"{nan, 'R52.9'}","{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,56,MALE,KVC SERV?S?,8,13
+664,{'I83'},"{0, 'E'}",Sedo Analjezi,,63,FEMALE,KVC SERV?S?,46,12
+1769,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,47,FEMALE,KVC SERV?S?,25,6
+2888,{'K40.9'},{'C'},Sedo Analjezi,"Tek tarafl? veya tan?mlanmam?? inguinal herni, gangrensiz veya obstrüksiyonsuz ",44,MALE,GENEL CERRAH? SERV?S?,47,12
+2692,{'J34.8'},{'B'},Genel Anestezi,Burun ve nazal sinüslerin di?er tan?mlanm?? bozukluklar?,31,FEMALE,PLAST?K CERRAH?,28,2
+1674,{'I83.9'},"{0, 'E'}",Sedo Analjezi,,61,MALE,KVC SERV?S?,25,4
+1053,{'N20.1'},{'B'},Genel Anestezi,,20,MALE,ÜROLOJ? SERV?S?,15,10
+1149,"{'I83', nan}","{0, 'E'}",Sedo Analjezi,Alt ekstremitenin variköz venleri,69,FEMALE,KVC SERV?S?,8,13
+1889,"{nan, 'M51.1'}","{0, 'B'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",43,FEMALE,ORTOPED? SERV?S?,42,11
+3030,{'I83.9'},"{0, 'E'}",Rejyonel Sinir Blo?u,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,72,MALE,KVC SERV?S?,25,6
+598,"{nan, 'M51.1'}","{0, 'B'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",46,MALE,ORTOPED? SERV?S?,42,12
+2762,{'M25.5'},"{'D', 'C'}",Genel Anestezi,Eklem a?r?s?,31,FEMALE,ORTOPED? SERV?S?,40,6
+2920,"{nan, 'M51.1'}","{0, 'B'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",18,FEMALE,NÖRO??RÜRJ? SERV?S?,21,2
+1693,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,53,MALE,KVC SERV?S?,46,4
+1590,"{nan, 'M51.1'}","{0, 'B'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",43,MALE,ORTOPED? SERV?S?,21,12
+3253,{'H25.1'},{'C'},Lokal Anestezi,Senil nükleer katarakt,60,FEMALE,GÖZ HASTALIKLARI SERV?S?,49,12
+723,{'I83'},"{0, 'E'}",Sedo Analjezi,,28,FEMALE,KVC SERV?S?,46,14
+292,"{'K21.9', 'M19.9', 'N20.1', 'N30.0'}","{'D', 'B'}",Genel Anestezi,Üreter ta??,50,MALE,ÜROLOJ? SERV?S?,15,4
+1508,{'R22.9'},{'D'},Sedo Analjezi,"Lokalize ?i?me kitle ve yumrusu, tan?mlanmam??",63,MALE,PLAST?K CERRAH?,39,14
+886,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,47,MALE,KVC SERV?S?,46,12
+380,{'I83'},"{0, 'E'}",Sedo Analjezi,,56,FEMALE,GENEL KARMA CERRAH? SERV?S?,25,4
+1578,"{'K21.9', 'K80.0', 'T78.4', 'K30'}",{'B'},Genel Anestezi,"Kolelitiazis, di?er",57,FEMALE,GENEL CERRAH? SERV?S?,33,4
+972,"{'I83', nan}","{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,30,FEMALE,KVC SERV?S?,8,6
+2422,{'K40.3'},"{'D', 'B'}",Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",57,MALE,GENEL CERRAH? SERV?S?,5,14
+364,{'M50.1'},{'A3'},Genel Anestezi,"Servikal disk bozukluklar?, radikülopati ile",59,MALE,ORTOPED? SERV?S?,42,5
+159,{'L05.9'},{'C'},Sedo Analjezi,Pilonidal kist,24,MALE,GENEL CERRAH? SERV?S?,36,5
+1314,{'M95.0'},"{'D', 'B', 'C'}",Genel Anestezi,Burnun kazan?lm?? deformitesi,27,MALE,PLAST?K CERRAH?,39,13
+167,{'I83'},"{0, 'E'}",Sedo Analjezi,Alt ekstremitenin variköz venleri,31,FEMALE,GENEL KARMA CERRAH? SERV?S?,25,10
+2832,{'K40.3'},{'B'},Spinal Anestezi,"Tek tarafl? veya tan?mlanmam?? inguinal herni, obstrüksiyonlu,gangrensiz",65,MALE,GENEL CERRAH? SERV?S?,5,12
+2837,"{'Z41.2', 'L30.3'}",{'D'},Sedo Analjezi,Rutin ve dini sünnet,13,MALE,ÜROLOJ? SERV?S?,15,6
+1595,"{'M51.1', nan, 'M48.06', 'M43.1'}","{0, 'B', 'C', 'D', 'A3'}",Genel Anestezi,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",80,FEMALE,ORTOPED? SERV?S?,42,13
+1843,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,42,MALE,KVC SERV?S?,46,6
+329,{'M54.2'},{'A3'},Genel Anestezi,"Servikal disk bozukluklar?, di?er",51,MALE,ORTOPED? SERV?S?,14,7
+2330,{'S52.50'},{'B'},Genel Anestezi,,61,FEMALE,ORTOPED? SERV?S?,22,4
+1026,{'K80.8'},{'B'},Genel Anestezi,,44,FEMALE,GENEL CERRAH? SERV?S?,36,9
+2022,{'L05.9'},{'C'},Sedo Analjezi,"Pilonidal kist | Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",42,MALE,GENEL CERRAH? SERV?S?,36,13
+1877,{'I83'},"{0, 'E'}",Sedo Analjezi,Ülser veya enflamasyon olmadan alt ekstremitenin variköz venleri,67,FEMALE,KVC SERV?S?,25,4
+859,{'K60.1'},"{'D', 'C'}",Spinal Anestezi,"Anal fissür, kronik",47,FEMALE,GENEL CERRAH? SERV?S?,5,7
+932,{'N47'},"{0, 'D'}",Sedo Analjezi,"Sünnet derisinin fazlal???, fimozis ve parafimozis",5,MALE,ÜROLOJ? SERV?S?,11,4
+2913,"{nan, 'J32.8', 'J33.9'}","{'B', 'C'}",Genel Anestezi,Eklem a?r?s?,44,MALE,KBB SERV?S?,6,14
+494,"{nan, 'N39.0'}",{0},Sedo Analjezi,"Hematüri, tan?mlanmam??",21,MALE,ÜROLOJ? SERV?S?,27,3
+285,"{'I83', nan}","{0, 'E'}",Sedo Analjezi,,34,FEMALE,GENEL KARMA CERRAH? SERV?S?,8,11
+1168,"{'K43.9', 'K42.0'}",{'C'},Genel Anestezi,"Umbilikal herni; obstrüksiyonlu, gangrensiz | Ventral herni, obstrüksiyon ve gangrensiz",66,FEMALE,GENEL CERRAH? SERV?S?,36,4
+374,{'M20.2'},{'C'},Genel Anestezi,Halluks rijidus,61,FEMALE,ORTOPED? SERV?S?,23,3
+934,{'N47'},"{0, 'D'}",Sedo Analjezi,"Sünnet derisinin fazlal???, fimozis ve parafimozis",4,MALE,ÜROLOJ? SERV?S?,11,4
+836,"{nan, 'K40'}",{'B'},Spinal Anestezi,"Bilateral inguinal herni, obstrüksiyonsuz veya gangrensiz",62,MALE,GENEL CERRAH? SERV?S?,5,9
+2295,{'K80.1'},{'B'},Genel Anestezi,"Safra kesesi ta??, akut kolesistit ile",58,MALE,GENEL CERRAH? SERV?S?,5,14
+1073,{'N47'},"{0, 'D'}",Sedo Analjezi,,5,MALE,ÜROLOJ? SERV?S?,11,9
+81,,{'B'},,,18,FEMALE,GENEL CERRAH? SERV?S?,5,6
+994,,{'D'},,Blefaro?alazis,63,FEMALE,PLAST?K CERRAH?,28,14
+2233,,"{'D', 'C'}",,"Derinin ve subkutanöz dokunun lokalize ?i?me, kitle ve yumrusu ",49,MALE,PLAST?K CERRAH?,28,14
+128,,{'A3'},,"Gastro-özofajial reflü hastal???, özofajit ile",36,FEMALE,GENEL CERRAH? SERV?S?,35,4
+1956,,{'B'},,"Ba??n lokalize ?i?me, kitle ve yumrusu",44,FEMALE,GENEL CERRAH? SERV?S?,36,11
+1086,,{'B'},,Ganglion,56,FEMALE,ORTOPED? SERV?S?,40,1
+111,,"{0, 'B'}",,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",66,MALE,ORTOPED? SERV?S?,42,4
+2055,,"{'B', 'C'}",,Di?er tan?mlanm?? eklem bozukluklar?,26,MALE,ORTOPED? SERV?S?,40,11
+1012,,{'B'},,"Alt ekstremitenin lokalize ?i?me, kitle ve yumrusu",51,MALE,GENEL CERRAH? SERV?S?,43,3
+78,,{'B'},,,47,FEMALE,GENEL CERRAH? SERV?S?,5,6
+620,,{'B'},,"Lokalize ?i?me kitle ve yumrusu, tan?mlanmam??",42,MALE,PLAST?K CERRAH?,39,9
+3110,,{'D'},,"Göz kapa?? bozuklu?u, tan?mlanmam??",42,FEMALE,PLAST?K CERRAH?,28,15
+15,,{'B'},,?nguinal herni,47,MALE,GENEL CERRAH? SERV?S?,36,7
+54,,{'A3'},,"Servikal disk bozukluklar?, radikülopati ile",36,MALE,ORTOPED? SERV?S?,42,6
+2463,,{'B'},,Memede tan?mlanmam?? kitle,22,FEMALE,GENEL CERRAH? SERV?S?,36,13
+22,,"{0, 'B'}",,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",52,FEMALE,ORTOPED? SERV?S?,42,4
+51,,{'B'},,"Kolelitiazis, di?er",54,FEMALE,GENEL CERRAH? SERV?S?,33,2
+2505,,{'B'},,"Akut lenfadeniti, alt ekstremite",18,MALE,GENEL CERRAH? SERV?S?,36,6
+3451,,{'D'},,"Göz kapa?? bozuklu?u, tan?mlanmam??",56,FEMALE,PLAST?K CERRAH?,28,6
+3612,,{'A3'},,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",41,FEMALE,NÖRO??RÜRJ? SERV?S?,42,11
+105,,"{'B', 'C'}",,"Gonartroz, tan?mlanmam??",64,FEMALE,ORTOPED? SERV?S?,23,11
+1830,,{'B'},,"Benign meme displazisi, tan?mlanmam??",32,FEMALE,GENEL CERRAH? SERV?S?,5,13
+19,,{'B'},,"Kolelitiazis, di?er",22,FEMALE,GENEL CERRAH? SERV?S?,35,7
+50,,{'C'},,,29,MALE,GENEL CERRAH? SERV?S?,35,8
+2842,,{'B'},,"Derinin ve subkutanöz dokunun lokalize ?i?me, kitle ve yumrusu ",34,MALE,ÜROLOJ? SERV?S?,15,13
+769,,{'B'},,"Kolelitiazis, di?er",66,FEMALE,GENEL CERRAH? SERV?S?,33,4
+2734,,"{0, 'B', 'C', 'D', 'A3'}",,"?ntervertebral disk bozukluklar? di?er, tan?mlanmam??",49,FEMALE,NÖRO??RÜRJ? SERV?S?,42,2
+48,,"{'B', 'C'}",,"Tek tarafl? veya tan?mlanmam?? inguinal herni, obstrüksiyonlu,gangrensiz",42,MALE,GENEL CERRAH? SERV?S?,5,6
+2584,,{'D'},,"Derinin ve subkutanöz dokunun lokalize ?i?me, kitle ve yumrusu ",65,FEMALE,PLAST?K CERRAH?,28,13
+1072,,{'D'},,?alazyon,4,FEMALE,GÖZ HASTALIKLARI SERV?S?,49,9
+107,,{'B'},,Radius alt uç k?r???,46,FEMALE,ORTOPED? SERV?S?,23,11
+66,,{'B'},,,40,MALE,GENEL CERRAH? SERV?S?,13,1
+1160,,{'D'},,Blefaro?alazis,47,MALE,PLAST?K CERRAH?,28,13
+3452,,{'B'},,"Gövdenin lokalize ?i?me, kitle ve yumrusu",50,MALE,PLAST?K CERRAH?,28,6
+813,,{'B'},,"Benign lipomatöz neoplazm, ba?, yüz ve boyun deri ve subkütanöz dokusu",38,MALE,PLAST?K CERRAH?,28,3
+2453,,{'D'},,"Göz kapa?? bozuklu?u, tan?mlanmam??",49,FEMALE,PLAST?K CERRAH?,28,4
+755,,{'D'},,Blefaro?alazis,58,FEMALE,PLAST?K CERRAH?,28,13
+172,,{'C'},,"Di?er iç yerle?im bozukluklar?, medial kollateral ligament veya di?er ve tan?mlanmam?? medial menisküs",57,FEMALE,ORTOPED? SERV?S?,23,2
+84,,"{0, 'B'}",,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",48,FEMALE,ORTOPED? SERV?S?,42,11
+1966,,{'B'},,,22,FEMALE,ORTOPED? SERV?S?,40,6
+34,,{'C'},,Nazal septum deviasyonu,32,MALE,KBB SERV?S?,38,9
+599,,{'C'},,Umbilikal herni,22,MALE,GENEL CERRAH? SERV?S?,33,14
+101,,{'C'},,"Pilonidal kist, apsesiz",23,MALE,GENEL CERRAH? SERV?S?,5,7
+1586,,{'D'},,Blefarospazm,37,FEMALE,PLAST?K CERRAH?,28,2
+53,,{'C'},,Varikosel,22,MALE,ÜROLOJ? SERV?S?,15,9
+25,,{'C'},,"Pilonidal kist, apsesiz",35,MALE,GENEL CERRAH? SERV?S?,3,2
+2232,,{'D'},,"Göz kapa?? bozuklu?u, tan?mlanmam??",48,FEMALE,PLAST?K CERRAH?,28,14
+1941,,{0},,Mesane neoplazm? için özel tarama muayenesi,64,MALE,ÜROLOJ? SERV?S?,26,4
+60,,{'C'},,,43,MALE,?ZOLASYON SERV?S?,3,2
+124,,"{0, 'B'}",,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",62,FEMALE,ORTOPED? SERV?S?,42,7
+16,,{'C'},,Pilonidal kist,28,MALE,GENEL CERRAH? SERV?S?,5,1
+3141,,{'B'},,,33,FEMALE,KBB SERV?S?,18,4
+93,,"{0, 'E'}",,Alt ekstremitenin variköz venleri,46,FEMALE,GENEL KARMA CERRAH? SERV?S?,25,10
+2527,,{'B'},,"Bilateral inguinal herni, gangrenli",47,FEMALE,GENEL CERRAH? SERV?S?,5,6
+56,,"{0, 'B'}",,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",27,MALE,ORTOPED? SERV?S?,42,2
+1879,,{'B'},,"Akut lenfadenit, tan?mlanmam??",21,FEMALE,GENEL CERRAH? SERV?S?,36,4
+11,,{'A3'},,"Servikal disk bozukluklar?, radikülopati ile",37,MALE,ORTOPED? SERV?S?,42,5
+1067,,{0},,Benign prostat hiperplazisi,54,MALE,ÜROLOJ? SERV?S?,11,9
+90,,"{'B', 'C'}",,"Gonartroz, tan?mlanmam??",59,FEMALE,ORTOPED? SERV?S?,23,1
+21,,{'A3'},,"Servikal disk bozukluklar?, radikülopati ile",46,FEMALE,ORTOPED? SERV?S?,42,4
+114,,"{0, 'B'}",,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",44,MALE,ORTOPED? SERV?S?,42,7
+1044,,{'B'},,"Derinin ve subkutanöz dokunun lokalize ?i?me, kitle ve yumrusu ",16,MALE,PLAST?K CERRAH?,28,6
+14,,"{'D', 'C'}",,Halluks valgus kazan?lm??,59,FEMALE,ORTOPED? SERV?S?,23,6
+1662,,{0},,"Hematüri, tan?mlanmam??",68,MALE,ÜROLOJ? SERV?S?,27,6
+2632,,{'B'},,,44,MALE,GENEL CERRAH? SERV?S?,36,6
+3066,,{'B'},,Eklem a?r?s?,37,MALE,ORTOPED? SERV?S?,40,14
+904,,{'B'},,"Derinin ve subkutanöz dokunun lokalize ?i?me, kitle ve yumrusu ",28,FEMALE,PLAST?K CERRAH?,28,9
+1888,,{'B'},,"Boynun lokalize ?i?me, kitle ve yumrusu",33,MALE,ORTOPED? SERV?S?,23,11
+83,,{'C'},,,27,MALE,GENEL CERRAH? SERV?S?,5,1
+2214,,{'B'},,"Romatoid nodül, di?er",51,MALE,GENEL CERRAH? SERV?S?,5,12
+1585,,{0},,Benign prostat hiperplazisi,47,MALE,ÜROLOJ? SERV?S?,27,11
+577,,"{'D', 'B'}",,"Derinin ve subkutanöz dokunun lokalize ?i?me, kitle ve yumrusu ",29,MALE,PLAST?K CERRAH?,28,4
+2411,,{'B'},,"Birden fazla yerin lokalize ?i?me, kitle ve yumrusu",47,MALE,PLAST?K CERRAH?,39,14
+1494,,{'C'},,"Umbilikal herni; obstrüksiyonlu, gangrensiz",49,FEMALE,GENEL CERRAH? SERV?S?,36,12
+71,,{'C'},,,39,MALE,KBB SERV?S?,20,1
+1683,,{'C'},,Halluks valgus kazan?lm??,54,FEMALE,ORTOPED? SERV?S?,40,6
+120,,"{'D', 'C'}",,Omuz rotator cuff tendon yaralanmas?,58,MALE,ORTOPED? SERV?S?,23,7
+2835,,{'B'},,Pilonidal kist,26,MALE,GENEL CERRAH? SERV?S?,5,12
+9,,{'C'},,Umbilikal herni,28,MALE,GENEL CERRAH? SERV?S?,13,3
+1760,,{'D'},,"Göz kapa?? bozuklu?u, tan?mlanmam??",42,FEMALE,PLAST?K CERRAH?,28,2
+36,,{'B'},,,44,MALE,GENEL CERRAH? SERV?S?,5,10
+47,,{'C'},,,37,MALE,GENEL CERRAH? SERV?S?,35,8
+816,,{'C'},,Umbilikal herni,55,FEMALE,GENEL CERRAH? SERV?S?,47,3
+1191,,"{'D', 'B', 'C'}",,Diz (anterior) (posterior) çapraz ligament burkulma ve gerilmesi,29,MALE,ORTOPED? SERV?S?,23,4
+879,,{'B'},,"Lokalize ?i?me kitle ve yumrusu, tan?mlanmam??",40,FEMALE,PLAST?K CERRAH?,39,4
+3447,,{'A3'},,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",46,FEMALE,NÖRO??RÜRJ? SERV?S?,42,6
+1519,,{'D'},,Blefarospazm,50,FEMALE,PLAST?K CERRAH?,28,4
+2352,,{'B'},,"Gövdenin lokalize ?i?me, kitle ve yumrusu",69,FEMALE,GENEL CERRAH? SERV?S?,5,11
+2342,,{'B'},,"Derinin ve subkutanöz dokunun lokalize ?i?me, kitle ve yumrusu ",54,MALE,PLAST?K CERRAH?,28,4
+45,,"{'D', 'C'}",,"Anal fissür, kronik",40,MALE,GENEL CERRAH? SERV?S?,5,6
+1599,,{'B'},,"Gövdenin lokalize ?i?me, kitle ve yumrusu",23,FEMALE,GENEL CERRAH? SERV?S?,36,11
+41,,{'B'},,"Tibian?n alt uç k?r???, kapal?",56,FEMALE,ORTOPED? SERV?S?,23,8
+1,,"{'D', 'C'}",,Nazal septum deviasyonu,32,FEMALE,KBB SERV?S?,37,1
+24,,"{'D', 'C'}",,Anal fissür tan?mlanmam??,18,FEMALE,GENEL CERRAH? SERV?S?,3,2
+13,,"{0, 'B'}",,"Lumbar ve di?er intervertebral disk bozukluklar?, radikülopati ile",38,FEMALE,ORTOPED? SERV?S?,42,5
